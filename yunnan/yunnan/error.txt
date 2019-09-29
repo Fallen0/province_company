@@ -1,0 +1,22 @@
+
+http://220.163.15.148/InfoQuery/EnterpriseDetial?keyValue=7bf3535c-352f-4a01-bbe1-50d33e570cab--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: >],)--process_exception
+http://220.163.15.148/InfoQuery/EnterpriseDetial?keyValue=31ea48f7-63ee-4e1f-8c7c-7d4dd87e182c--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: >],)--process_exception
+http://220.163.15.148/InfoQuery/EnterpriseDetial?keyValue=a0e784ed-8c2a-497c-b904-210870acfae1--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: >],)--process_exception
+http://220.163.15.148/InfoQuery/EnterpriseDetial?keyValue=ca0bd065-5e27-4ba4-9c1c-7990bfcf2272--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: >],)--process_exception
+http://220.163.15.148/InfoQuery/EnterpriseDetial?keyValue=53a3d352-951b-4890-9344-481adbb78166--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: >],)--process_exception
+http://220.163.15.148/InfoQuery/EnterpriseDetial?keyValue=8b1ae4e4-466c-4ac8-99db-0866bad93b0c--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: >],)--process_exception
+http://220.163.15.148/InfoQuery/EnterpriseDetial?keyValue=9f6f5dbb-4f3a-492f-a5aa-4d56dcab5d60--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: >],)--process_exception
+http://220.163.15.148/InfoQuery/EnterpriseDetial?keyValue=6afc03b9-b339-440f-927f-052b03d20cc5--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: >],)--process_exception
+http://220.163.15.148/InfoQuery/EnterpriseDetial?keyValue=467b8f29-f357-4922-afa5-eb36ef2f3688--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: >],)--process_exception
+http://220.163.15.148/InfoQuery/EnterpriseDetial?keyValue=a668cc73-2306-4ebb-9530-f879212be6be--重试次数达到上限
+http://220.163.15.148/InfoQuery/EnterpriseDetial?keyValue=250bcbac-232e-42bb-866f-c363b6d68b37--重试次数达到上限
+http://220.163.15.148/InfoQuery/EnterpriseDetial?keyValue=760ac1d2-7e89-47ae-a2d8-becf66c878ff--重试次数达到上限
+http://220.163.15.148/InfoQuery/EnterpriseDetial?keyValue=7b52f0cb-48ef-4a59-81d7-53509f18e920--重试次数达到上限
+http://220.163.15.148/InfoQuery/EnterpriseDetial?keyValue=c11755f2-8165-4d97-9620-1d3d6ea968d7--重试次数达到上限
+http://220.163.15.148/InfoQuery/EnterpriseDetial?keyValue=6e8016aa-d969-4c70-9660-981ce2769d60--重试次数达到上限
+http://220.163.15.148/InfoQuery/EnterpriseDetial?keyValue=72ba23c2-360a-4cdc-afa7-492bab80ff7a--重试次数达到上限
+http://220.163.15.148/InfoQuery/EnterpriseDetial?keyValue=50a3730c-5051-4402-836f-2e33bc6bef31--重试次数达到上限
+http://220.163.15.148/InfoQuery/EnterpriseDetial?keyValue=c888adad-bd9c-42d8-9866-b87961b12968--重试次数达到上限
+http://220.163.15.148/InfoQuery/EnterpriseDetial?keyValue=25a56637-fbed-4e69-9c03-b6a3b6117921--重试次数达到上限
+http://220.163.15.148/InfoQuery/EnterpriseDetial?keyValue=4edc9973-deb1-494c-8560-b2f1b7a09b9f--重试次数达到上限
+http://220.163.15.148/InfoQuery/EnterpriseDetial?keyValue=7d5a80c3-76a0-4492-b9ad-6d462bc2a906--重试次数达到上限

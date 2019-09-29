@@ -1,0 +1,1325 @@
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=7f40e526-2ac5-453d-8491-b144553214ae--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c446df7d-70d6-422f-a4c4-26f75169545b--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=be0b8b0d-9845-44cc-8ae7-7e4873d3b433--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=cb4cd62f-c9ad-4d34-81cc-911c536ca37e--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=a8974478-8ae9-4254-9c05-4bae07245d4c--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=53599778-5a03-4875-88e0-03cf8cd5e375--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=0816d287-a09b-4759-97a4-fd1d55e448bd--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=5bc13664-b632-40fb-8548-86c19709c404--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=edaade41-67cd-4285-aa99-ef73219ed561--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2d73d9f2-68ae-427a-835d-2047a85e80bb--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=f11c2342-4785-4796-880a-6a95694a1e04--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=3716e0a4-52e8-480d-a1b7-11ebc776fe74--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=e5f4959c-0124-49e0-a222-392d2bceae97--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=dbdc8671-c670-49c3-97ea-96593d6b653a--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=166bbeaf-6f60-45ad-9d58-3af1bacee0cd--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8824959d-4432-4373-8d98-2d634919f96f--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=82db15c3-7dce-4a10-92a6-0df3811d5ddf--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=7ba0fd4a-f8b7-416a-81fa-5e3200c793aa--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=da74493a-1a3c-44a3-b4c1-259871212a82--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=08e5f47a-4ee3-41ad-9b4f-df805935a2fd--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=f3ab48b5-1ed4-4bf2-89ec-a0057f58601f--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=1ccaf6c2-f2b3-4d4f-98ce-225e671b733e--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=43c07faf-fc87-4f26-86a9-ff249e2d7116--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=26c2c7f9-2ae3-4ccb-a31e-74838290d4a2--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=4b7548cc-f1f5-416a-972f-b07c16b6cb1a--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=f2ec3e72-8d5c-4932-968b-4ae43df0ead1--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=7b17170c-5860-4c04-8ea5-f11fc9fc0a14--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=d66a9f57-bfdb-468e-b232-0c40b0174234--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=0afc5bd7-c2cb-474f-9887-c4f370884ce1--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b182957a-f0cd-4646-a884-27e64899926c--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=5a3448ec-8f6f-48bb-8d8f-296a8692c9d2--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=020ded7e-4b41-4297-89a2-1eb9f94064db--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=1a4e6e87-f772-44c4-b632-db01f8a7ce13--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2ab6412e-2630-4428-87e6-2783217e3b15--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=3020a085-0203-4d29-bc68-0aadaac52904--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=6a83b982-619e-4abf-9a40-d016529381c6--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=f2cfd8a6-a894-42fe-b5cc-0caded31c612--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=884b46c8-79f3-4b4a-9f1d-3f55cffbc538--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=90bf3a2e-00d6-4510-a221-c75e54ce1517--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=637828cd-2b29-4126-9e25-c14ea060090a--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=bba25ced-4cf2-4876-a8ca-eb427d89b035--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=80cadbb8-45e5-491e-a0ef-e55f441fe951--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=da531146-dc8c-42ba-87d7-a67071abfc23--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=f76f6ae2-17d0-4b0f-9c70-34974d6bd504--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=e4ea36b9-7e13-4220-9af8-1eb3138af9e2--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b3b1d625-a527-445a-8ef4-5af14edb56e4--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=5133dfb8-6c87-40f8-8528-89f7f6b2e62e--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=7fd25beb-d43b-4b37-ae81-3a7961597f0d--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=753d3702-9ea6-47e1-9278-94e0d32a3dd3--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=ac05ef92-1404-4222-8d9b-0a26d0824916--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2ce2a5e3-1a84-4ff4-b2af-e0e89b2de4c7--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=dbf08f20-eac7-493b-9f8e-04d458192dc5--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=09dfad66-e3de-4904-887d-b57b9f63d655--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=bea7c61d-258a-47db-abab-d1759271eff6--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=96873127-b7d8-4e8d-b055-abc06ecce9e8--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=49a8aaad-4798-4dbf-ae7e-fb9ca5fdeee4--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=79a9034c-f89c-46a0-a83a-6ea7da70d4a8--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=6d39c73c-b873-413a-afe5-c825b4f3a123--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=4c933e90-40af-4608-89e4-41e35fdadd44--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=691726f7-e1ae-4b1c-bed7-ee40a3ab611c--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=6c326b4c-fdb6-46f9-9a0e-279a69adfac0--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c57839b7-483d-4d01-9544-3a09b8615bb6--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=6f9f5bea-3c79-4815-83e0-54af3d0cab6a--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=e52e0e51-daba-44d4-9f3b-ec683abdec7e--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=4e9df2da-1c4f-47a1-a315-2a72e22c8ccd--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=079cc672-a9e1-4f6d-ba61-e2233e270ad1--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=4131840b-479a-4e49-a450-e1bc3c69e509--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=1d23ac77-e92e-4ff5-bcc9-53b8b2af0dba--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=abc2c0a2-9863-48f5-a7c3-c3c1f120ba37--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=4bc5aa3c-5547-4a12-975c-4f74e4e63dfb--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=820b2949-d6ce-48e6-bb31-970f1f40fa4d--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=3da33a72-a6fb-4490-924d-60bea230829a--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=619f9690-dc6b-4739-9630-a863cbaff42b--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=7b131ce6-a25b-4e05-9ac7-bd13a01d7004--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c7e0a493-a280-4343-b33f-18548bd731f7--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=f2c97c48-f643-40d0-a367-e98fff7ce774--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=ad13984e-793f-4f14-911d-e011c164718c--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8126c2cd-3e14-406b-890c-44e273d96708--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=79d48853-3194-4251-9e15-610fd63f9e12--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=af45e872-7738-4a5a-ae9b-f7449211221e--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8e284779-e720-427e-82a4-7ba3fbdab79d--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=08d94606-bf9a-4a08-825f-cb25597062cd--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=ae9b9df7-e789-4a47-b8a8-677c5641465d--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=ccae38c3-bd7e-48b3-b6a2-c68a380c3fb5--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8e2f58e9-dd49-4c7d-bacd-af01c063e3a3--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=78e5e3b9-d544-448e-9c11-c006597464f3--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=e1f9733a-9283-4bf2-92e3-7062c87a4983--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=538b9045-4fdb-450a-922c-2774bdac7f76--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=91228c9a-25e2-4eff-af2a-4f4a339ebc40--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=1f8b9231-ea7a-4870-a7bc-f94cddcbd863--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=19bf3c83-84d8-482d-8611-60bc4cf964df--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=29af6928-e019-4b21-a220-2cf02d071f54--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b9f622a4-a8b8-4045-8bfd-90e36711e27f--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=0db6ba69-9a05-42d3-a6ed-ece1c4fc4546--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=44beb10b-2d1d-4dbf-aa00-3c8b4823b560--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=3be176a4-299b-4cef-aa6c-e1ab6e19fe52--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=ef45d242-c010-4c6c-ae25-4e0eb9c4f7c3--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=ffbaae7e-6224-4a9d-86da-709eec0c0ff4--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=08d38ccb-437d-4037-a35d-a65b1aadaab4--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=9b82c959-b85b-4078-a153-35d09b5f7a1c--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=cb634d3b-98e9-49f6-aac4-c47061a02e91--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=bae72467-cb31-43d5-860a-a752d29e7f31--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=a97538c6-61ad-4625-80fc-55df1b1b787b--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=f6454f92-c767-493f-ab41-99074e5e9bb8--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b5641cec-bf6a-4f68-acf4-1c38554b5754--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8aef3788-9bfd-4670-9b9a-484acbe66d39--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b3fb5f22-66f0-4d27-92a6-865eb4ec5efd--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=4674884c-0913-4021-b037-3000c73d2268--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=f0a5cc8f-3229-4492-b773-ef13feea3c41--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2894eb7c-28ba-4449-a525-f49a2a994ed8--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=9493059a-971a-4a41-9bf1-86b77e5273ea--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=4dfa4165-8566-4b88-94e9-99b85f5aea74--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=920df367-f161-4312-a6ec-a25874b28aed--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=110a4f8d-03a4-4d70-9b25-86c8a1365423--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=df336e75-3c69-4af7-8492-f1f149f46861--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=f228e6b2-7a56-42a9-82c0-3837541c1181--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=5a35de40-b8df-4c30-843c-f1731d45248f--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=81b0b7b6-e9cf-4e98-ae79-85253db6ac55--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=bfd1a30e-5b79-4786-a54a-a1bdde76ee10--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=dcbe3cac-9ac9-4fc2-bb52-69d5aa6f945e--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=e129c3ed-64aa-489d-aa39-2daefa74344d--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=5c350a40-b571-4a8d-b24f-c8eda5f247f9--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=81df2897-6b40-4111-988a-a4529f82304f--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=69cb6f67-8d98-4b1c-a1d7-0d9d7ac3e977--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=d99554fc-c5b0-42a0-8816-b3bd1774d872--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=bbbfb296-a848-4ce2-8a36-862574243689--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=f21518a6-1e7f-4be6-bc91-2290c48d8996--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=511938ba-6e6f-47e0-843a-9fdd9da840d0--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=dc6fb989-7bdb-45cd-b714-12c29e738979--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=be1fd14f-85f5-4e44-b37e-828acf54514e--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=6a047ee1-30a4-4215-864d-1c277b9cb123--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=d27a960f-0a77-4f1a-bd56-ad50c5e80ef5--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=ba64d219-e8e2-497b-a763-b6841b7a73bd--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=d8bcc064-d2d3-441c-a34e-235a19f3be22--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b3001550-2631-46fc-95d1-5b566629fc97--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=91c3cece-f6fd-4004-a891-a05616897d36--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=20ea37f3-4fca-4cb3-9213-323c26c1bfc2--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=3a06d731-831d-4961-913f-ced48797f487--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=a65098ae-5931-4b60-bdda-a89cfa664913--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=7a68557f-6575-47d3-977b-bef3ec82b454--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=af8feea5-92ef-4637-a4f0-7077e54d042a--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=05f63689-6e17-453f-bcc4-aa62c1dc749a--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=e493e443-c5f9-485c-9dcd-687ce9085d9b--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8c0acccd-70ea-4e45-98e2-430c0f7f87b1--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=78cf728b-578e-42b9-b139-e98607ab348b--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=aab396e2-56c3-40ae-b130-d92bf21cfcaf--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=0a44759e-86c5-4e5d-8f93-24242f73647b--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=0fb1c57f-2c2b-4844-849b-2b03d59181d7--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=90b69d0f-4d6b-4295-8c2b-49943f1ee147--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=523b9085-ae91-4791-a54c-cd1a54d111c8--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=014cb708-2d31-44bc-b2b7-1f5369b5f533--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=443f7f20-662a-4a0d-90e8-9a2c2cfe12b5--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2200c85d-1fe5-4afe-8163-944444d3dbe7--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c9283a7f-1c54-494e-addb-6310880b2334--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=71519298-856a-4672-8ba3-825755a98706--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=16676bad-180e-448f-993d-d7a695984956--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=0263cbc4-ccdc-4fce-9a87-62bc3973cffe--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=7570f201-bcfd-40b8-aee6-52174a303f03--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=7bab9a26-553a-4851-a6ac-3df40714e8bb--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=ef4cb921-e84f-4312-a66b-1c93a65cbae5--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=61676f18-5ca0-4c6a-bc27-7ab6adeac57c--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=e4d05c96-5aed-490d-a19e-acc8802c5489--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=d6012e11-d2de-450f-8d24-aeab21afd404--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=5aebc6ea-a959-4e98-a642-df0d216ed4cc--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=4b1146eb-7740-430e-a4a7-c0d4790c4052--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=16bbd795-e07e-43b4-849c-c5ca011be3c7--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=4463e676-8ff7-41d3-ba6b-d60a59de80f0--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=a598d8e9-07bb-4a4f-b5e8-f72bf13ba38b--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=16f798cb-0eb7-4cf4-9581-58a760cc0a7d--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=117c1492-6d66-4e65-a1c4-cb26fe1bac85--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=fac1ab51-bfe7-47fc-90e5-3bf576c78259--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b6317c7c-4107-41cb-9882-eeb18b4c84dc--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=ea96c662-8668-4465-9e4a-5fa9eaf098d4--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=4d10fca7-7d9a-4e5f-b597-bdde1100542e--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=42fc2fc1-f24f-46fc-8e93-c7b9abf88122--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=105c4333-40a8-47b7-b1c6-e34e6ec36565--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=92435e18-feb6-4afc-9859-0593bfea5324--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=4c9291d3-7f3f-4af2-891b-05a5dc30bdcb--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=fc04f02d-91e3-4b11-859e-94f9f7def76b--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=9b15a930-20c2-4e6a-837f-6a9fbbd5ff75--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=a1c23f23-61d6-4edf-87e5-8e2ba3aaa398--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=84464676-b609-489d-8988-6c63cddd867d--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=d29bd6d9-ad2a-42b9-9610-ad23e94156c3--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=a51051e4-8da3-40c4-ad63-a48e7307230d--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=35f4fd82-b793-4cb1-9bd7-951edfa48a07--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=6eecc0c4-d1fc-4abb-ae62-a82411ed43d7--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=3c166d90-f79a-40b6-9c6e-76bbb0a13504--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=328cb526-0fe8-4fa5-ba6f-60d48ba19f07--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=a26945d1-4de8-4fe9-8642-17da994b8e2d--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c82e4e5b-1e45-46ce-9bcd-628f8e84698d--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=5b669267-8eca-4430-aee7-004333894e88--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=9af85b1c-30fe-4f27-a322-8d918c22ddd9--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8113f2c3-afb9-433a-8a2f-44b6a5146079--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=caddc040-4198-4465-8fbf-8e0544b5ffa9--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=6aa6cc44-7c20-4032-b1b4-60acf1dcfdb7--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=abad48e9-70e2-4ccd-b2af-d4ce2cac1718--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=4408d2ad-154a-4fff-b925-bc78508ad9c5--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=e0f233ce-1396-4c5b-84b9-aad525f6f9f4--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8b72969a-0257-4e6f-abdb-3ce1ed284c83--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=0a21aa64-5faf-45b7-864c-558c64b77a8b--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=98abfe5d-5931-44e1-82d8-768702cbc00c--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=98bff6d2-6fa9-4d98-aea7-c7e094736e7d--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=547ed940-d5a0-4b54-80a3-85f83a5a7494--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=37139141-a38b-4d82-a686-6a7830804e11--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=28bbf682-df32-4034-b562-0f2021cdecf7--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=40aee6f8-59fc-439e-be38-d5a3324c97ca--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b905a1ab-291b-4d33-bdb0-7c9b020ed57b--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=51373e67-dfb0-43c2-8959-12817c1d6fdf--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=9df6fbb2-4691-4e82-8d98-b886e66d9587--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=28f8e7c8-a7a4-452e-8158-ec66bd9f73a3--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=a72301a1-2b1a-497d-81cd-23a5499229f8--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=7c14b48d-aaaf-4186-93b0-74f6b448fe30--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=782bb4bd-c70c-464b-b8e0-3e1ad6d7bcf5--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=08b2d79e-d683-4ddd-be63-3a49971c4d08--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=1d9fd4a2-075c-4564-bc73-54853f9b7446--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=d98146ad-9fe9-42cc-ab79-3de8e3c96400--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=7174502e-0c02-4a2d-a619-658f5daa7e6b--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=02c8c4e8-418e-4840-81db-0d39f2d10d1f--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=f92659e3-ee05-41e0-a7f0-f3166369fe2e--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=574a5d76-563c-4545-b718-ac0cb66a97e8--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=5e43dfd0-df26-4f7b-b322-b7ba3945f411--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8474d482-1278-4813-aa30-7237ea7e164c--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=6a62a70d-88c6-4c3d-a2fb-35246aceb58b--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8e8f33fd-5d07-4b43-8d0c-8e09d40a59c2--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=18f43aeb-3bb5-4ca1-ab37-384a83f11617--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=159a8ce4-22a3-447a-a915-e9782f8932a4--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=4be36de6-0179-4696-8821-46f319a77122--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=5d0d8e3f-861a-4685-95d1-ef7f1c368acb--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=35ec0148-637d-4124-983e-beb3f685c6e5--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=69357e3e-68f9-4676-ae09-51b7079efeea--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=390c254e-d207-4ee3-8629-12a9be3c98d3--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=d54c54fb-2fa6-467f-a99f-3f042350e32f--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=0945aa38-8e55-4cd1-a07c-4fb7605b5eb8--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b8a60ff8-9244-402c-ac02-ec3317ad56e9--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=44a7a54a-d4dd-4613-a08d-7c4756d44471--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=f6e8a2b8-43e9-4f24-aab6-5d836f8aa0f1--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=73352b6a-5027-4eb4-8453-9d50b31700a8--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8a181b7a-7800-4f51-b33a-f5e739176be2--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=692b1784-8d64-4d80-88c0-371cca35a799--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c0d58bfd-5ea4-41ba-ac5b-849f2d1e40a1--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8eb72b7a-6ef0-468b-96ab-3f78735a1bb5--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=35c98834-b087-4616-9453-dca1f378397e--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=34a15c9d-ba26-411a-a91b-ddcf268756fc--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=655f74be-bfb6-4490-8d9d-cacc8fcdd7a7--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b1bf2f82-71be-4571-9987-86e6f09baa03--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=402881c42caec9bf012caeca36230342--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=6b16bcef-41e3-4a1e-ba05-b9ea61ba0d48--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=6baea592-e2fa-4797-86f5-025f513633ba--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=44221667-0004-4f63-b0ed-16822a659fa3--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=977714db-25e9-4e39-82bd-f5c6584062e6--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=68738312-33dc-4c48-9cd9-1d5bb871252a--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=793adc74-bb38-4272-9584-15b5cbdc264a--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=7f66f146-9894-4007-899c-f9bf4e70cbd5--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=932b0c4c-7bbc-4b84-8b92-d6bb2e292734--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=35c324ed-f06e-41ad-b70b-91160a3b39d1--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c6e57ca1-f372-4904-8f8d-4786a65b2677--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=a4d75935-0b80-482d-9623-8f4f2ad79354--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=14b9f80f-ef08-4391-85ca-0b1c1d0af8b9--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c5cb78ef-8b36-4358-9592-3f8826f7c6d8--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=6e26e152-87f8-49f9-922d-461528428b75--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b0163813-4d4f-41d0-865a-112af91c9726--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8e13a885-2384-4e99-8adc-81205a36ceaf--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=ddaeb025-596f-49a3-a710-70fc173c9273--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=06c3a91d-e248-42f3-9143-3d1bb2cfbadd--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=cff1c63b-b86a-425d-8882-5f77e22f2043--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=7be62ea4-b868-4294-bd4e-1ed474d18ad2--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=4a2dc3aa-dbba-45a5-b7a7-0a885ddd7a76--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=fdf3e700-7c95-47aa-87ed-b0c3d6d8842a--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8a9b954364a6f8fd0164ac26c5cb033a--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=66e81ada-d4bd-4232-804b-b5b47eb4a949--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=7441d246-687e-46a1-bbb2-4a976c0f7cec--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=ca51831c-837e-48d7-b257-d6bb99d247b4--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=27a75f1a-7597-4ec5-b70d-aeb66673d8c3--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=098a1a38-ec74-43bf-8706-b3bc0f2303ba--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=22f81707-d194-4946-9ab8-5763eaf62b2f--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=93c6bb2c-5ee4-44c4-b7ae-a2de3b0cc08c--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b6bef934-5ed7-457a-b866-d57304dd19bb--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=cab4fdf4-f763-4749-b89c-11e2672a8c04--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=5cf3ab47-e4e3-4ff2-9e20-0934a4de5098--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=574f2d96-185e-428f-8c02-f67025472094--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=743fc50d-4c82-40ea-bf5a-de34bae15929--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=760b41b7-58d5-4dc1-b956-b8d8b6fa4722--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=e51f698e-938e-40f4-8328-cca1f979e6e1--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=4a9eec2f-0cf5-4939-ba55-41a14d5e5516--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=31fb48ea-dbde-4883-bcd7-f852cbf642d3--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=e009f582-bf96-4201-b1e6-5dc7b47c44c1--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=a0190266-a531-4dee-b2a6-fbd9a8c97908--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=208dbe27-2c89-476e-b5a7-8e3c45c3897b--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=be57a026-1f7b-4730-8537-21d20260d836--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=4c0f4bf1-59ca-4780-95e2-257fccad7426--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c8584ed7-90b9-4569-93b9-e5608db9e80d--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=67102bdd-d1c7-49cb-b8b3-396d14232209--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=cbeb3501-5502-4a1a-bc7c-e782d957bde2--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c0639810-b256-47cc-b1df-c3efd0268507--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c7490456-8b81-4cd2-afe3-367ef69cea0a--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=602c3045-4e33-48a0-9ce8-7b49f1c2beda--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=6c6d4947-4b95-45be-8c64-62317eb62516--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=7d956ac6-e228-432a-9581-13a58a91a355--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=a3f3af4e-ce53-4d67-9db8-5c4db5d4b0aa--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2e1ff581-53b2-4265-b8c8-782d57a1af62--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=4d36d4cf-6a3f-4b4a-8620-f8563b8ef604--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=87f188b9-443f-4265-9f0f-2ab00f0348d8--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=41c26f79-dc55-45ed-b974-7a2547790816--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2fe9d2d5-ba43-4076-8f6c-e42d7dacbc99--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=75b23478-5075-491f-b495-d063f63f9c10--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=f5112c0e-6023-4470-af0d-0dae32cad59f--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=cd97e9f6-3b9d-4686-90f9-607f1d2428b5--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=08c993e0-f0ad-4a7a-bc04-708a66e54442--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=f3ebb24c-b045-440b-8bba-955b2d529a8c--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=79feca05-b1cb-4d2a-a7fd-ed2d86c44860--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=a3e617f6-3927-4329-ada8-9f5e9e12b126--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=42206dee-2ae9-45bb-aac7-6d60e1ae35f2--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=6cc3ec31-511b-4808-a098-998d6bf1cc66--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=cd8a89a2-0201-4307-87e6-91c07e4abc30--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=032a9651-2ab4-43a1-aaa3-0d9067de02f5--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=841e5009-927a-4842-8410-e2ec715668aa--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=bdaf4501-9250-4417-a1f7-c13f02645e6e--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=016a1277-1daf-4639-a08b-97bc8747fd7b--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=471e15c5-f4a9-4a7f-8fbc-4230fec875c4--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=d2b8bda1-6084-40ea-bde2-65cf304f2142--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=44867437-a60a-4616-8ba5-4945fcb8ab1d--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=e0873e97-565a-4205-a4cb-a6676426a8d8--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=5ba34882-72ee-48f4-bbd7-5304e3ab77ab--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=56349383-4885-4565-a8c6-50c13856ddfb--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=e6ba9c4e-4822-46f8-b662-baa4f79dde8d--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=055f4b6f-fe2d-4d2d-b11f-284845a5b04f--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c84fdf6b-da99-4f68-a212-0b1598daba14--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=a03c9f58-6ae0-4588-824b-76593845f218--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=5a974932-1d79-4754-9fa7-c761059a7c7b--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=58ee8bf6-fb53-4397-8039-27a7cdb65144--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c238645c-c966-4ae5-a08c-7e5d2eff4107--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b91e4a08-a6d2-4d7f-85f9-f33660a32bdd--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=a39de35d-6e9c-4664-aa91-d82b2ccc7675--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c089d7fd-54ea-45ce-bbf9-77f18c78ef93--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=e9705a44-d12f-40b5-9fe4-f348f09f28e5--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=6ec3d34f-b64f-4c03-8be7-b681419364d5--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=99f26f42-6d1b-4d89-8eba-f6e3b5983721--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=feec8e09-9200-480c-abcf-887a218f4e07--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b63dcdfa-68b5-4944-b69b-c41fa88cb57e--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8aa55477-d3e8-4a32-ad96-bfc84c75215c--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8a9b95415efab04c015eff09c4b900e7--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=7a4d8f8f-7916-4e6b-8457-9f12547b5ec1--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=feec8e09-9200-480c-abcf-887a218f4e07--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=02592dd0-e0cd-4927-a678-37ef4c72e7bb--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=02592dd0-e0cd-4927-a678-37ef4c72e7bb--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=44221667-0004-4f63-b0ed-16822a659fa3--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=35b308be-358f-47d5-9660-a5114be100ac--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=e4d05c96-5aed-490d-a19e-acc8802c5489--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=61676f18-5ca0-4c6a-bc27-7ab6adeac57c--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=42fc2fc1-f24f-46fc-8e93-c7b9abf88122--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b6317c7c-4107-41cb-9882-eeb18b4c84dc--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=a598d8e9-07bb-4a4f-b5e8-f72bf13ba38b--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=443f7f20-662a-4a0d-90e8-9a2c2cfe12b5--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=16bbd795-e07e-43b4-849c-c5ca011be3c7--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=4b1146eb-7740-430e-a4a7-c0d4790c4052--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=5aebc6ea-a959-4e98-a642-df0d216ed4cc--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=d6012e11-d2de-450f-8d24-aeab21afd404--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=9a751099-0796-4e3b-960b-888715be50f4--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=ec065035-ff48-456f-a595-ca533175afb9--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=36016b3f-1139-447d-8dbe-aa5191e7cf82--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=1c1a9350-1a29-4b36-aacf-d29bad313dff--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=798296d3-80eb-4add-bc57-8c73e2156e9b--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=574abf15-75d2-455a-a61f-8151d49a03f8--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=4e010201-cd4d-4489-87ff-ba164bf9efdd--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=1c1a9350-1a29-4b36-aacf-d29bad313dff--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=7c3cc511-cc7a-4431-96f9-eb85f207910e--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=7e40d0bc-9559-4322-8ceb-0f06e357482d--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=d35da3c4-eb9b-42cf-b3a3-e765f3ce0d37--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=a127e863-817f-41cc-80fe-dae9419f27fd--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c6654f5e-942a-4799-83f8-531d621302f1--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=80c36dde-e6c5-4278-bddb-29caa06d480f--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=a6f83d93-6f05-487f-892d-af9e1a35cfd3--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=da1f881f-3997-4433-99c6-b29e9ac69dd0--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b829d974-7a50-4b35-8892-75197421d38e--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=a127e863-817f-41cc-80fe-dae9419f27fd--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c6983635-68d7-4322-8fbf-d847b317efbe--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b16d447b-f66b-48b6-8bbf-6577357ee986--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=e0121d53-ff2b-480a-b29b-136b34e3fbe0--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b56aa93c-7a5c-4d24-afdf-b26eb553a480--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8f0fce3f-47e5-4e87-9e7d-1035f7cc6e57--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=10688d88-77b0-4551-b6a0-abd9e748817f--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=dd110539-8faa-4785-9844-8350633e4c5a--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=fbddc449-8df8-4f0c-b922-f473250a8be2--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=1dc3ade4-cdd0-4a6a-a073-a7c568ae9807--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8f0fce3f-47e5-4e87-9e7d-1035f7cc6e57--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=de560d69-1938-43d0-b1ae-8b0306f17061--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=19fd2a88-d9d2-4fc7-9ee4-c0881a916ac0--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=07e32e5d-a2c0-4764-a3d4-6c63960727fc--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2573a83f-212e-4b84-8e57-54614e9fcf3e--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=66f231f7-e899-4927-8f38-1ab4b5e24fe7--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=92af0917-684d-452f-a655-723f2e2d2971--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=42e23b30-51cc-414c-a24f-be9b1b38a2ce--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=f788d8d0-52da-4eab-86e2-fa2be79f7073--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=6b0900c8-5b95-415d-99fe-f606c16d7d35--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=74e3ca2b-821c-4c6c-ba76-631a28791620--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2e143872-1313-4460-bd89-0649626ecdba--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=9105970e-fcfd-4d1d-a5c2-9202423358ba--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=f5b60e1f-dccf-46e5-9c52-98bfc9ca25c3--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b2733f02-75a0-45dd-a645-5f73ece678c4--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=50f5cfe4-772a-4703-8eeb-de7807391fe6--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=f12e33c9-335b-4b8a-a02a-e8d6325378ef--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2e143872-1313-4460-bd89-0649626ecdba--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=3fd88ef9-07ce-44b8-b2e6-ce0faddd7796--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c9fc73c2-b023-4a58-8e45-1de926115b5e--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=598f43d2-1f6b-4fc5-aaa3-555a5c231e2d--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=9303f83a-6e9f-418c-b36d-92ca8ea3322b--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=a235c950-f5fb-4423-9de3-588eaff921e6--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=fd43cc86-2a84-4405-92eb-c8135644f05b--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=68b666c6-ec08-4e62-af9f-d9666990e39f--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=82023b55-7e93-4e27-9749-281d1232c6ed--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=9294b00f-c5ef-4ae3-b34b-7370c3f80c76--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=de314e2a-208a-44fe-a435-9b041cb0deb0--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=dd8e32fb-c288-465d-8348-56351f09694b--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=f6b8cda8-6d4f-4fa3-85d8-6bad6c1ec87e--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=078f26d6-76e3-4e0b-acca-54a5b7e1d82c--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8af3bed4-26c3-4cb9-adf6-c11f7cb225f1--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=0b88cbee-da25-4a03-8845-32564ddce908--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=36346b21-2d1c-4a22-a9e9-9a473df32e83--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=38bb062d-0eae-407c-993c-d48448631e21--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=5b2eaf33-c778-4d74-9c32-e746b3fa6c2d--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2de27036-cc94-4530-b031-ee4d7feb450b--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=3abac9cc-1808-458b-aecf-2e90259c72d4--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=70693fc1-122f-4307-998a-b8d909f60e21--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=fda43967-9eb4-4b20-9ca1-c1d627ffd859--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=36346b21-2d1c-4a22-a9e9-9a473df32e83--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=0b88cbee-da25-4a03-8845-32564ddce908--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=d4b42ee7-4798-4676-836b-65ad8cbb09db--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b272cb2f-4f22-47e9-873c-19f9ad72a70e--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=df4b62fd-3259-4b61-867b-8724b622ceeb--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c7554626-bf08-42e7-b8d8-c6d3f267591e--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=ff07cbae-2b9b-4f03-a3e1-05474878f66e--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=26e20084-f3bd-4854-8643-3f3053f15f62--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=fa1aee1e-e224-42c6-9a87-a42fbb567622--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8bf59a4e-8d91-4061-9c31-eff6274b3fac--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=4ba3e0cf-e965-40e1-bd6b-320322f0cab5--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8bf59a4e-8d91-4061-9c31-eff6274b3fac--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=9202c7ba-c5b3-494e-a3d5-1679d2396ef9--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=131e0814-6da5-492d-be7c-99ca1fe028e1--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c2fb6c14-8e50-4279-b544-ca68f90eaf46--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=e039f0e6-3e61-4f60-b1e3-6f9730e920db--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=e039f0e6-3e61-4f60-b1e3-6f9730e920db--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=9202c7ba-c5b3-494e-a3d5-1679d2396ef9--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=4ba3e0cf-e965-40e1-bd6b-320322f0cab5--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=e3d3dec5-c564-4ab8-b48e-e19611c31e90--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=cb94f1d4-1c9c-4b84-af4f-6e587b6c25a7--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=35509f0d-13b8-4483-a141-acea38623cf0--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=7c0d810d-2dbb-4700-8c41-520bd584219c--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=527dd4f9-1463-4f0e-8940-694288667905--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=522b6913-2438-4bf3-8425-4d52ea0bcdf4--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b20ddff3-caaa-47af-b641-a38d8f9af9f6--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=99d825b4-5d42-455e-80ab-3b6aa21f16f3--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=d1c5ade8-1a85-4636-a8ae-3ea9f7f03ac6--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c14c1fa6-646c-4841-a1c0-e09a96dafa66--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=fb495502-6544-42ea-8819-1fdb4ced571b--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=7a0aefb5-82f0-4434-a96b-a2d112babc65--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=25a47c6c-57e4-4e67-ac5f-070028caf723--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=e8f7a7c1-6469-4890-8b9a-858c3963bed5--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=a8a41653-b8be-4b9f-a618-ef39164a52d6--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c355d545-0bd4-4245-a14c-b572dc78af77--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=f66acd03-3127-47d0-aa1e-06b2924654d6--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=5393f9ae-78f1-45c7-905c-6abf37a4538a--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=5e22112a-2894-4fa0-8c6c-4b62f6c25a31--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=d604e48b-8d87-4cee-ae42-d24e9a1a3e26--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=71f78d9d-01c3-460c-9d04-4b26330781d4--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=ac0ffb07-62fe-4e33-9c22-ac8a799362dd--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=95666978-b903-4a0e-bd22-7bb042829b6c--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=60bfbee2-b189-4a90-873c-2614d16f918a--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=836414cd-a769-4b4b-9abb-dd79331ec7a2--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=99b3cd86-eb94-449f-be7f-4d9bbab8e7f5--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2b935391-8137-45ba-a843-aea919e13561--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8906261f-d0da-4dfc-acc2-a36ef024f10a--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b753e063-c21f-48d7-95d4-ef876046780a--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=60bfbee2-b189-4a90-873c-2614d16f918a--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=99b3cd86-eb94-449f-be7f-4d9bbab8e7f5--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=836414cd-a769-4b4b-9abb-dd79331ec7a2--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=f4375a28-c206-4cc4-962a-fd93c98d8597--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=764d0d4a-1be1-4798-b62a-2c3e804dbf5a--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=65780be4-767e-4e1e-9abe-0d86d5637476--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=0969ccae-38bf-4aba-b46d-28bcb825894c--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=897de810-06d2-415d-8adf-37bdafeecc12--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2daae7f8-aff5-4323-a35d-6825a3530728--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=a5e43e28-6216-4dd9-ab3d-af306385164e--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=156c7854-2a4e-4cbe-9aa0-28fa2a2ce5ed--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c623c1e3-d911-4cc3-b9d3-c9109dff4416--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=67efaca7-676f-431e-a503-174e2a09a9cf--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=f5a202e4-a7ec-4e14-8125-e812b9623b17--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=998481d1-7e69-463d-8fe3-80d793473a64--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=09152e89-3f8c-4b47-a898-ec43eea6700d--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=205521a7-3eaf-47fd-a885-cd8061774b38--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c06e1015-7a94-48bd-a129-a23f18cc91c3--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=65010ba7-e190-4e7d-b278-95cc39849d0d--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b30434ac-6335-45aa-b552-d1b66884b552--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=9c3c329f-25b7-4db4-a235-71dc9cff6aab--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=cdac76d8-7d2c-4e65-82d3-e0dc355399b8--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c0365c6f-1d2a-4562-9c8e-7496478349a2--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2585d4ae-b200-49b4-bf5e-7d13124381a9--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=da2427b4-9dd3-4c80-84ef-d029349598f4--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b30434ac-6335-45aa-b552-d1b66884b552--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=f4375a28-c206-4cc4-962a-fd93c98d8597--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=67efaca7-676f-431e-a503-174e2a09a9cf--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2daae7f8-aff5-4323-a35d-6825a3530728--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=897de810-06d2-415d-8adf-37bdafeecc12--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=65780be4-767e-4e1e-9abe-0d86d5637476--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=764d0d4a-1be1-4798-b62a-2c3e804dbf5a--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=ec3c3e38-cf8e-47cb-88ab-a1a9902b5fc4--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8265e436-7932-4882-a89b-83d755263c43--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=0802c78d-cc94-4219-8bb9-5d828a13774e--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=91f26490-e1bb-4dc3-bb6e-2ffada4ac54b--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=d0766947-2873-4a2e-9d6b-d45afbdda67e--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=79aa1714-43d8-43fc-ab87-8f4e472a0053--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=7a0102da-47df-4468-9e49-e753232984f0--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b5466347-c380-4c2f-8cb4-b2f51982358a--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=0d6633de-9f9b-4061-8c32-5535a831f168--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=fd22e6ca-11bd-4b41-9da3-a03421fd0e0d--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=a6b6487a-f181-45a4-a3b5-a150ed98af3e--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=9187deba-813f-4538-9507-4542014e6941--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=05ec7ab5-0904-4269-9709-2fe5a8845ad9--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=adf604c5-db21-4196-9738-46ba4648b843--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=af493912-8653-4dcf-8014-056eae5185b1--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=245af916-c0fc-48cf-9de6-57f9adc212f5--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=f30b0fd9-3c75-4949-a54b-3b8e5e3744af--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2467f29d-7720-46e1-8f8d-2022b5be5c8e--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=25707eb6-8655-4c2b-b316-5b068d64b652--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=91f26490-e1bb-4dc3-bb6e-2ffada4ac54b--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=e800a875-d3b4-44c0-bd20-636dc6a545eb--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=02d6f2ec-6ba6-4884-ae09-8da2a1413355--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=807faa5a-a96a-4ad6-821b-e3f1ede2d87a--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=f2e4e6eb-ea9f-47c2-851f-95b6fe244cdf--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=cae8609c-5d37-47d6-91e8-c6b36802947f--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=36c37446-409a-4af5-852d-8c480c57f7dd--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=e50add19-ba40-4d83-a4fd-f547e04b1544--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8348a735-4305-4ab3-b997-58d8b6e4fc8e--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=d4d5018f-9b41-4824-9d1b-98cb07dab78d--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=306a722c-f5bd-400a-8caa-cb6055515204--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=48973e98-cdf2-4764-bd13-955c230fe0a6--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=e3f2806a-9607-4ed7-a818-1a7c9b1cbf89--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=f95fd12d-28c7-45af-8080-586bdcf3f80b--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=0d62479f-a821-42cc-9786-7233cb24f38f--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c729b326-db72-424f-82c6-9465d8dab853--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=18280f9e-e057-4652-83c0-6ce8c0d7adef--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=3dfba11c-ac4f-41ee-b221-933ad9713768--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=e1bed392-efa9-44d4-9c2f-9bb39d4c468e--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=afd3af6c-5a82-46f3-8e58-ae13cc564714--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=afd0d8ce-3b9d-4216-81cc-57ef3d41a99b--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=e9cb56fd-cb9b-4e86-8988-ae30b818713b--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=afd3af6c-5a82-46f3-8e58-ae13cc564714--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=afd0d8ce-3b9d-4216-81cc-57ef3d41a99b--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=36c37446-409a-4af5-852d-8c480c57f7dd--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=6b9adde4-381b-4278-97b6-1512e44279fc--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=156c0625-9f53-4e12-a093-b440b2a5c100--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=896d3f71-dd69-43d2-8f63-abf4eef04b26--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=91b9e6ec-f386-474d-bda1-cf866d4572fc--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=cf77d001-0673-4b21-99f7-9a85dee72659--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=cb735c67-4121-4bbc-a6c4-e0451a58733a--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=1a3c765f-1779-4bd5-bdc9-f5d6d489f813--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=0788a844-ad7b-463e-bff4-a1e4db17833a--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2b985e2a-9f69-4f40-a92a-644a0368ba0f--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=23e7eaf2-d8ad-4530-bddc-e708112408ff--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=d7028efc-375b-4032-a5aa-cb491c3aac98--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=d54158e3-6d8a-4169-a094-7995ac9d48fb--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=9269c973-997f-4cb9-abc0-ba77bdc844b7--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=53a22a5b-115c-47e9-ac11-17f2fbe09f22--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8ad68635-35d4-41bb-aebf-1f55450adadd--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=5bd01bca-557a-41d6-bb58-6e6d8455cb44--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=a542adcc-afef-43f2-bde4-e2f38db40123--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8a427853-4628-4965-8fb1-9b8b80364c95--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=308fbcd5-3075-41cb-9784-6f8f03973b1b--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=fccdf163-01a5-4c28-af63-db5794318618--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c8802c56-b5ed-42fe-8445-fb3042e6ed4f--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=dd802a2b-fb70-4b4b-b354-c49ce4c2fbb5--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=a099b5b7-1b3b-403f-ac9c-a903374286ef--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=4b0d387e-9336-4997-8c93-6a33dedf76bb--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=6b9adde4-381b-4278-97b6-1512e44279fc--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c0aa38be-aa4b-44c6-8aa8-1d429b6b848e--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2620b2f7-d435-4955-9c1e-0bd68e18592e--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c8c378e6-2761-491c-b403-c05c949e9d4d--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=f4135708-0d67-4296-890c-b831903c0773--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=82a5bca3-4298-4674-8cc6-0cd91e10b8a2--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=564345e4-3401-4b08-b6a3-2f6bde5ebf0c--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=ff0a7b40-f1ad-4a43-9104-69038d4b466f--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=a186b58c-0ceb-4e26-8b69-ae6ab1e36fac--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=82a5bca3-4298-4674-8cc6-0cd91e10b8a2--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c8c378e6-2761-491c-b403-c05c949e9d4d--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2620b2f7-d435-4955-9c1e-0bd68e18592e--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c0aa38be-aa4b-44c6-8aa8-1d429b6b848e--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8df2bf02-fb52-46d8-b441-ac8020d842cf--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=d7eeadc4-2552-4714-8486-09201b041d0d--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=a6d092ef-1e8b-4126-b46d-82bf1c376881--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b72ccd24-95b5-404d-aa89-36e70d58f50d--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=ac57b368-2f18-4a04-82ee-a74b4fd9cee1--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=3ed7f1bb-2ab6-464e-ac9b-74984c1b1827--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=5da15291-0e46-42f8-b5db-edb18cc0437c--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=a459eb5d-991d-45be-9d53-11ff5693e1a5--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=31e3a338-69bb-424c-99f9-4e46affa8673--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=a895421f-987f-418e-80ad-ff3aad2d19ff--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=d960c81d-aaaa-4856-9810-c8b1ce1a32f3--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b55d68d0-a3ff-48c2-aa00-5868f1937b21--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=6cc76b40-0ed3-4d91-bfe6-183074013e5c--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=554a6a55-b86d-4fc0-b4ea-8ccdd133ef2c--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=e63a7145-b47d-4cb7-9a87-47f93c8e60fc--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=ac22aaa8-a725-4e73-8845-cc08e6ccc20c--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=38cce603-d0a9-4a2d-bf85-eafb5d461eea--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=46f79fff-59f9-489d-8da2-2b467aef7aa9--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=569c2971-2367-4c85-a761-84931e48a759--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=395ebfbb-2981-4bb3-9007-c2febde93786--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=cff806ec-f87e-4f9a-9c3a-c471411078ec--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2791948a-1882-4e02-842c-b813df40f65f--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=31ad1824-a35c-441e-97da-43ed13040fad--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=54cf7a5a-a1e3-42e7-9da7-f181bfa179dd--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=ae5780b2-b500-41e5-859c-427adbe089d2--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=4a73ab3f-14cb-4115-a5a9-e00761e5050a--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=d633d669-a5b1-427d-ba7d-c66888b7c4b3--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=48035b56-542d-47e5-83bf-2eeabddafee3--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2831a3a7-92d6-4416-9eb9-d6665e41bf36--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2791948a-1882-4e02-842c-b813df40f65f--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=38cce603-d0a9-4a2d-bf85-eafb5d461eea--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=ac22aaa8-a725-4e73-8845-cc08e6ccc20c--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=e4d4927d-5dd5-43e5-8ca9-31f1f6ae9124--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=39c7f027-4bea-4dd4-bd84-3e028bd058b2--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b459538d-0a56-4641-a90b-7adf4c0964ec--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=736ae159-19ab-4fbd-8d67-f84e806c9c36--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=78634b7f-3da8-422e-98bf-4a29812863ad--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=adbe10da-ffa3-48ba-9dc3-12b9c97b9fab--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=15c6a0e8-2e39-4155-b33f-e7a3d05c054d--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=9d053040-d7af-4754-8273-14e8928a7947--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=6fa68f97-e925-422e-98c7-1c845e805539--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2bb7949c-bedd-454b-8c3f-cd33d092dc6d--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=64d13a20-9278-4ad6-8e5d-a9f8223a6574--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=f654d030-99a9-458e-ad5d-24822b98d35a--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=9cb722ce-6804-4627-a356-7a7fd1e926b2--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=209e6498-481b-4775-a83c-2c20571564da--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=0e305ea7-fee5-40e4-bb10-a206f5d8843b--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=ba99b3c8-3ac5-4ce8-910a-933ec355704b--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=ed21d628-dc81-4d1a-8009-c1dd8b8b07f6--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=136736dd-bda3-4af3-b221-511d46d31415--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=1835d85c-f43e-42bd-b95f-025bceb30a0b--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=360d50dc-9173-46cc-8205-cf200f43574a--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=9cbfcf4d-2b42-4674-add0-8773b5a78129--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=a31ef34b-f415-49c3-a393-5dc17e24fc52--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2108aeed-3eb1-4098-8023-c6e55232c682--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=712c8615-ab2e-4599-83c6-2e2ed1485c6d--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b6083e99-aad3-4514-9cdb-136e60b097b9--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=41e78dd3-2da8-4a83-b3ab-07183ee81e69--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=ea04e123-30e9-46bd-b46d-1245edd60e51--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=f36768da-6b74-4143-b2d6-7d20253c86be--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=e493e443-c5f9-485c-9dcd-687ce9085d9b--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=05f63689-6e17-453f-bcc4-aa62c1dc749a--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=af8feea5-92ef-4637-a4f0-7077e54d042a--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=7a68557f-6575-47d3-977b-bef3ec82b454--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=dd5047b8-6033-499f-95df-55c738d97a50--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=789863b0-6ef6-4e4e-a411-fa803c2df434--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=a31ef34b-f415-49c3-a393-5dc17e24fc52--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=712c8615-ab2e-4599-83c6-2e2ed1485c6d--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=a97538c6-61ad-4625-80fc-55df1b1b787b--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=bae72467-cb31-43d5-860a-a752d29e7f31--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=cb634d3b-98e9-49f6-aac4-c47061a02e91--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=69cb6f67-8d98-4b1c-a1d7-0d9d7ac3e977--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=e129c3ed-64aa-489d-aa39-2daefa74344d--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=dcbe3cac-9ac9-4fc2-bb52-69d5aa6f945e--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=bfd1a30e-5b79-4786-a54a-a1bdde76ee10--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=dd5047b8-6033-499f-95df-55c738d97a50--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b5641cec-bf6a-4f68-acf4-1c38554b5754--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=f6454f92-c767-493f-ab41-99074e5e9bb8--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b9f622a4-a8b8-4045-8bfd-90e36711e27f--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=91228c9a-25e2-4eff-af2a-4f4a339ebc40--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=538b9045-4fdb-450a-922c-2774bdac7f76--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=ccae38c3-bd7e-48b3-b6a2-c68a380c3fb5--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=96873127-b7d8-4e8d-b055-abc06ecce9e8--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=166bbeaf-6f60-45ad-9d58-3af1bacee0cd--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=f11c2342-4785-4796-880a-6a95694a1e04--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2d73d9f2-68ae-427a-835d-2047a85e80bb--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=5bc13664-b632-40fb-8548-86c19709c404--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=0816d287-a09b-4759-97a4-fd1d55e448bd--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=a8974478-8ae9-4254-9c05-4bae07245d4c--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=cb4cd62f-c9ad-4d34-81cc-911c536ca37e--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c446df7d-70d6-422f-a4c4-26f75169545b--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=be0b8b0d-9845-44cc-8ae7-7e4873d3b433--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=7f40e526-2ac5-453d-8491-b144553214ae--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=96873127-b7d8-4e8d-b055-abc06ecce9e8--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=ccae38c3-bd7e-48b3-b6a2-c68a380c3fb5--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c0aa38be-aa4b-44c6-8aa8-1d429b6b848e--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2620b2f7-d435-4955-9c1e-0bd68e18592e--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c8c378e6-2761-491c-b403-c05c949e9d4d--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=36c37446-409a-4af5-852d-8c480c57f7dd--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=60bfbee2-b189-4a90-873c-2614d16f918a--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=4ba3e0cf-e965-40e1-bd6b-320322f0cab5--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=9202c7ba-c5b3-494e-a3d5-1679d2396ef9--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=91f26490-e1bb-4dc3-bb6e-2ffada4ac54b--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=897de810-06d2-415d-8adf-37bdafeecc12--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2daae7f8-aff5-4323-a35d-6825a3530728--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=0b88cbee-da25-4a03-8845-32564ddce908--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=67efaca7-676f-431e-a503-174e2a09a9cf--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=36346b21-2d1c-4a22-a9e9-9a473df32e83--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2e143872-1313-4460-bd89-0649626ecdba--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b30434ac-6335-45aa-b552-d1b66884b552--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=836414cd-a769-4b4b-9abb-dd79331ec7a2--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=99b3cd86-eb94-449f-be7f-4d9bbab8e7f5--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8f0fce3f-47e5-4e87-9e7d-1035f7cc6e57--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--TCPTimedOutError('由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8bf59a4e-8d91-4061-9c31-eff6274b3fac--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=4217cad3-8062-46a8-ac9e-c0b732a3f058--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=ca073b9a-38cb-4a3f-ac52-b1a4c1375b75--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=ac5ec8a6-bc82-4d64-836b-296a14f7042b--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8ffc87ff-58f0-4217-b9b3-9aba8cbf59e7--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=1c1a9350-1a29-4b36-aacf-d29bad313dff--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=576d0ed2-976c-45f2-aed2-b2df6769ad1b--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=26c85b3b-5c74-4b63-8fa6-2021ea169da3--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=d37adb68-b592-4c15-847b-d47a87396d2e--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=5aebc6ea-a959-4e98-a642-df0d216ed4cc--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=4b1146eb-7740-430e-a4a7-c0d4790c4052--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=443f7f20-662a-4a0d-90e8-9a2c2cfe12b5--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=962a98f2-4f9b-4eb3-bc90-109ae6bf031f--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=5e7bf779-3a5a-445a-bb9b-926a00262864--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=31acddeb-c59b-47de-9709-8d8635d3b2a7--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=44221667-0004-4f63-b0ed-16822a659fa3--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=02592dd0-e0cd-4927-a678-37ef4c72e7bb--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=feec8e09-9200-480c-abcf-887a218f4e07--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8bf59a4e-8d91-4061-9c31-eff6274b3fac--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=feec8e09-9200-480c-abcf-887a218f4e07--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=44221667-0004-4f63-b0ed-16822a659fa3--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=02592dd0-e0cd-4927-a678-37ef4c72e7bb--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b30434ac-6335-45aa-b552-d1b66884b552--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2e143872-1313-4460-bd89-0649626ecdba--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=36c37446-409a-4af5-852d-8c480c57f7dd--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=9f16498d-572f-468f-99e2-cfe093a78973--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2620b2f7-d435-4955-9c1e-0bd68e18592e--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c0aa38be-aa4b-44c6-8aa8-1d429b6b848e--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=ccae38c3-bd7e-48b3-b6a2-c68a380c3fb5--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=96873127-b7d8-4e8d-b055-abc06ecce9e8--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b30434ac-6335-45aa-b552-d1b66884b552--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2e143872-1313-4460-bd89-0649626ecdba--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=02592dd0-e0cd-4927-a678-37ef4c72e7bb--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=36c37446-409a-4af5-852d-8c480c57f7dd--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2daae7f8-aff5-4323-a35d-6825a3530728--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=897de810-06d2-415d-8adf-37bdafeecc12--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2620b2f7-d435-4955-9c1e-0bd68e18592e--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=91f26490-e1bb-4dc3-bb6e-2ffada4ac54b--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=9202c7ba-c5b3-494e-a3d5-1679d2396ef9--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=4ba3e0cf-e965-40e1-bd6b-320322f0cab5--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=60bfbee2-b189-4a90-873c-2614d16f918a--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c8c378e6-2761-491c-b403-c05c949e9d4d--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c0aa38be-aa4b-44c6-8aa8-1d429b6b848e--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=96873127-b7d8-4e8d-b055-abc06ecce9e8--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=feec8e09-9200-480c-abcf-887a218f4e07--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=44221667-0004-4f63-b0ed-16822a659fa3--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8bf59a4e-8d91-4061-9c31-eff6274b3fac--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=36c37446-409a-4af5-852d-8c480c57f7dd--重试次数达到上限: 200
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=02592dd0-e0cd-4927-a678-37ef4c72e7bb--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=897de810-06d2-415d-8adf-37bdafeecc12--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b30434ac-6335-45aa-b552-d1b66884b552--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c0aa38be-aa4b-44c6-8aa8-1d429b6b848e--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2620b2f7-d435-4955-9c1e-0bd68e18592e--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=96873127-b7d8-4e8d-b055-abc06ecce9e8--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=feec8e09-9200-480c-abcf-887a218f4e07--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=44221667-0004-4f63-b0ed-16822a659fa3--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8bf59a4e-8d91-4061-9c31-eff6274b3fac--ConnectionRefusedError('由于目标计算机积极拒绝，无法连接。',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2e143872-1313-4460-bd89-0649626ecdba--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=91f26490-e1bb-4dc3-bb6e-2ffada4ac54b--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=9202c7ba-c5b3-494e-a3d5-1679d2396ef9--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=4ba3e0cf-e965-40e1-bd6b-320322f0cab5--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=60bfbee2-b189-4a90-873c-2614d16f918a--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c8c378e6-2761-491c-b403-c05c949e9d4d--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=9202c7ba-c5b3-494e-a3d5-1679d2396ef9--重试次数达到上限: 200
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=897de810-06d2-415d-8adf-37bdafeecc12--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=91f26490-e1bb-4dc3-bb6e-2ffada4ac54b--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=4ba3e0cf-e965-40e1-bd6b-320322f0cab5--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=60bfbee2-b189-4a90-873c-2614d16f918a--TimeoutError('',)--process_exception
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c8c378e6-2761-491c-b403-c05c949e9d4d--TimeoutError('',)--process_exception
+[2019-09-29 09:33:41]-http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=caadec07-3189-4f19-b625-145a44a4e012--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: >],)--process_exception
+[2019-09-29 09:48:17]-http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=e508692a-d541-47e2-987e-03fb7a430f1e--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: >],)--process_exception
+[2019-09-29 09:51:20]-http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=16b96272-4d93-4386-9b9b-2419cfe894b4--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: >],)--process_exception
+[2019-09-29 09:54:41]-http://jg.hbcic.net.cn/web/QyManage/QyList.aspx--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: >],)--process_exception
+[2019-09-29 09:57:42]-http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=66c1bc03-112c-474f-831c-87e7a9e5256a--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: >],)--process_exception
+[2019-09-29 10:16:05]-http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=6867a3b6-f550-4a56-b69a-9388be18c7dc--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: >],)--process_exception
+[2019-09-29 10:29:23]-http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=860c59af-03d9-46d0-b9da-12554193a385--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: Chunked decoder in 'CHUNK_LENGTH' state, still expecting more data to get to 'FINISHED' state.>],)--process_exception
+[2019-09-29 10:55:48]-http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=ae096571-d640-4c19-89a3-63a85bdec2c7--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: Chunked decoder in 'CHUNK_LENGTH' state, still expecting more data to get to 'FINISHED' state.>],)--process_exception
+[2019-09-29 11:00:24]-http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c872c648-5ca0-481a-a2ea-7b2d162bbdff--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: >],)--process_exception
+[2019-09-29 11:14:20]-http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b3207a49-1238-4418-9059-1c93fc582578--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: >],)--process_exception
+[2019-09-29 12:22:19]-http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=402881c42caec9bf012caeca446b03f6--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: >],)--process_exception
+[2019-09-29 12:46:53]-http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b9a99f52-8f14-4a13-8078-94b6a9d8275b--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: Chunked decoder in 'CHUNK_LENGTH' state, still expecting more data to get to 'FINISHED' state.>],)--process_exception
+[2019-09-29 12:47:25]-http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=bf678c8a-87bf-4e6c-a6bb-fcaaeb30bfc5--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: >],)--process_exception
+[2019-09-29 12:50:33]-http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=68b666c6-ec08-4e62-af9f-d9666990e39f--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: Chunked decoder in 'CHUNK_LENGTH' state, still expecting more data to get to 'FINISHED' state.>],)--process_exception
+[2019-09-29 12:58:15]-http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=e0c18176-b022-4ed8-b08c-8c04e6f22c19--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: >],)--process_exception
+[2019-09-29 13:00:28]-http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=7d7e62a4-f4e5-47b0-97db-8c483a1d5c17--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: >],)--process_exception
+[2019-09-29 13:04:18]-http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=05fdbfe0-2205-4539-99fb-c1a970e4e3b8--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: >],)--process_exception
+http://push.hb.cnc.cn--重试次数达到上限
+http://push.hb.cnc.cn--重试次数达到上限
+http://bf.welcome.vnet.cn/--重试次数达到上限
+http://push.hb.cnc.cn--重试次数达到上限
+http://gd.chinavnet.com--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=14db16da-adf7-4923-98a9-b8ad671a167f--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c5853f08-b3ac-4fef-9189-b63145a63a47--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=0ecc1d77-06c5-4c40-967f-8710f262a702--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c0675861-25f3-4111-8e36-8726f3f4070c--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=d9f8771b-da9d-4832-b095-fb4d83583ead--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=5cf3ab47-e4e3-4ff2-9e20-0934a4de5098--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=4028e4ef53447c4401536348712f0bc3--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=81c119d3-431b-4b20-a839-778dfa0d01c0--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=3cee8e3d-0d28-4893-a106-a2507986c63d--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=a03c9f58-6ae0-4588-824b-76593845f218--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=6b02b264-17d9-4021-8d56-aaef01bf1a75--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2af1e659-a21f-4bb8-af03-15e4db00354b--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=59d42b51-b525-49fb-bca4-a5a66b34af5c--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=5ba34882-72ee-48f4-bbd7-5304e3ab77ab--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=42206dee-2ae9-45bb-aac7-6d60e1ae35f2--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=499acf4b-c9e5-442d-a984-6d77d4c52575--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=ef1bdd02-577a-4389-882e-48de77eb94a3--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=a03ebe6a-2b55-47cd-bdd2-75c1c3673333--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=4028e4ef39136ecd01392d3bc1fd6320--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=5d75fe32-2dff-4220-85ab-8f9b9575225b--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=4954bf96-3d0f-4089-b6ef-7659b0a2bf44--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=21914d81-6c3b-47d9-bed9-947a2e916e27--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=e8a6a0e6-952d-48e5-8631-3088bac1e0fe--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=55906bff-cf35-4517-b19b-26edb837186b--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=74764944-9e8a-45ba-ba23-2b4d4986b077--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8474d482-1278-4813-aa30-7237ea7e164c--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=cb627f20-2d03-4ba1-b8c9-a52fe49cb154--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=eb7e244c-c1fe-4593-aef4-0e69ad435aa0--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=6637a59b-9f5d-45eb-914f-fefac50c161a--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=6b3645b3-9cb0-4d58-ae0d-1896cd8d731c--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=443f7f20-662a-4a0d-90e8-9a2c2cfe12b5--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b77d2607-7698-43be-bc01-a4acf8b1a2e4--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=1faf7a2d-7a70-4725-bae6-8fc6f360d66f--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=75290874-7607-49d3-8277-da66f7df96b7--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=d5ac1646-2ce3-4809-8c13-819bd854794a--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=29892fc0-45bf-41f0-aa02-f79b83f527a0--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=71d9547f-18cd-45b9-ba25-106600c9edfd--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8f0fce3f-47e5-4e87-9e7d-1035f7cc6e57--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2c3616a4-a7fa-4e25-832f-537973037ffd--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=a235c950-f5fb-4423-9de3-588eaff921e6--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=0b88cbee-da25-4a03-8845-32564ddce908--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=0df9484d-88d3-402d-b582-87424feb807e--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c7554626-bf08-42e7-b8d8-c6d3f267591e--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=f3cadfac-620d-4320-90be-16a8d0c62ed7--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=ee6e4a02-9703-4608-bfe1-e2e2d4702132--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=1768cf34-8141-48e5-9b04-4c2f64dfb195--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=4ba3e0cf-e965-40e1-bd6b-320322f0cab5--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=e039f0e6-3e61-4f60-b1e3-6f9730e920db--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2e143872-1313-4460-bd89-0649626ecdba--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=cfdcc7e9-23d7-43a9-8a0b-49c2cb0e4491--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=21273e6f-d6f6-4cb2-833a-d24063335fac--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=522b6913-2438-4bf3-8425-4d52ea0bcdf4--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=0e3e27cc-f7e4-4408-ae6d-0813f2c09ade--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8bf59a4e-8d91-4061-9c31-eff6274b3fac--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=e8f7a7c1-6469-4890-8b9a-858c3963bed5--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=5393f9ae-78f1-45c7-905c-6abf37a4538a--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=0553a122-7155-4e63-b091-6a3ada8baf53--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=bbca478d-44a7-4590-8210-0f183e3ba204--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=67efaca7-676f-431e-a503-174e2a09a9cf--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=f5e6847b-9ebf-467a-aead-cfec09df2d1c--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2daae7f8-aff5-4323-a35d-6825a3530728--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=76fe1095-0f88-48bc-830b-ce2c3068746e--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=60bfbee2-b189-4a90-873c-2614d16f918a--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=897de810-06d2-415d-8adf-37bdafeecc12--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=91f26490-e1bb-4dc3-bb6e-2ffada4ac54b--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b30434ac-6335-45aa-b552-d1b66884b552--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=e4ecd70f-e60c-4949-a23e-29c1cdf1146a--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=25bf4aa3-0f8d-476d-8107-d25ef0517afd--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=36c37446-409a-4af5-852d-8c480c57f7dd--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=0a7040c4-070f-498d-9065-26672dbd11ef--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=7cdf1b6f-1551-4cd1-8048-a49e92f4884d--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=d4d5018f-9b41-4824-9d1b-98cb07dab78d--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=5f08e4b2-b8f2-4103-8873-18e30ff3b205--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=91805fc7-6dd9-4438-9121-936d4c4ae398--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=6b9adde4-381b-4278-97b6-1512e44279fc--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b18b4371-2af5-4168-a0fc-f3abeab3ed9f--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=bc4bfb94-fa9c-4d92-82ad-b9e7ba43a204--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8185dd30-ac47-4471-8135-7746a29bc7f6--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=a3f19d3e-b82a-4afd-ada0-cbf187c27139--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=d88f29c4-42b7-4e30-a8f5-c915ea460561--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=0266ef07-b2b1-4067-8c53-11b57f40b2bd--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=05372430-409d-4690-8f18-7ff519108d20--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=650d1ce1-a2bf-4f65-a5d2-e10ce7669aac--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c0aa38be-aa4b-44c6-8aa8-1d429b6b848e--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2d743157-69cf-4505-89f2-d9113e5dbe95--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2620b2f7-d435-4955-9c1e-0bd68e18592e--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=6cc76b40-0ed3-4d91-bfe6-183074013e5c--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=2f8c9643-692f-4cf9-beb1-649c6da0b43f--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=ebb4501d-7132-4d26-bdac-25746aca4261--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=0ef12e4b-0216-468e-a6a4-03f2186867cc--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c8da0153-5921-4e6f-a889-a1968124df46--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=bf8c4275-3779-489b-8c60-6412001a3633--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=3ee0cd5f-f59c-4c23-b8a0-6a105eb55779--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c8c378e6-2761-491c-b403-c05c949e9d4d--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=82a5bca3-4298-4674-8cc6-0cd91e10b8a2--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b8e67166-1a00-4278-8e27-aea41fdc499b--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=409ac3b8-8936-480f-82fa-f78a35463114--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8a29717c-34fc-48b5-afc1-a90218a986a4--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=4b492d6e-dd86-4b0e-83b8-c13a2049b27f--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=712c8615-ab2e-4599-83c6-2e2ed1485c6d--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=77d93173-f7ca-40da-8896-5724727d5379--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=3dabf77f-bf46-4215-a30a-c0628a58d8b2--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=a1256f0f-98d9-4370-8335-3099280dab84--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=4bc5aa3c-5547-4a12-975c-4f74e4e63dfb--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=705d5b30-9edf-46b9-bfce-a4d4341051cd--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=acd794d4-fbba-46a5-95cb-fa2a3a5cf529--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=d104b8e0-cba5-4a3d-ad18-860812cc158d--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b6d15d42-71b0-4615-8f48-6658e2ee2966--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=75da3cfb-2a03-4b3d-96bd-fd798729f02b--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=96873127-b7d8-4e8d-b055-abc06ecce9e8--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=4b196f18-37c3-41a1-9439-57783066f650--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=90bf3a2e-00d6-4510-a221-c75e54ce1517--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b32fd4bf-48ce-48a0-8b05-76dbf354f6f3--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=74186b11-cdb4-4da8-a30e-c5fa1c8b4f7b--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c7e0a493-a280-4343-b33f-18548bd731f7--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b8d94408-c5c6-4163-ab5c-8a014d44b3b5--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8dfe005d-7164-4cbb-882f-2ff00ea3d9bc--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=ce97d4ae-b6c0-4a58-b6ec-da4accee4711--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=02592dd0-e0cd-4927-a678-37ef4c72e7bb--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=7a4d8f8f-7916-4e6b-8457-9f12547b5ec1--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=cd01f33c-37c4-4d20-b1d8-019d87fccfea--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=c446df7d-70d6-422f-a4c4-26f75169545b--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=8aa55477-d3e8-4a32-ad96-bfc84c75215c--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=6898e895-294e-46ff-8fcb-b4bcb56178b1--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=92f50729-155f-4726-aa8c-916b5a865c54--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=f2ec3e72-8d5c-4932-968b-4ae43df0ead1--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=a4f527df-d440-4a00-ad3f-9a3664be82f5--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=b8e9fbb1-5c2f-45d8-afb9-80b04419a524--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=44221667-0004-4f63-b0ed-16822a659fa3--重试次数达到上限
+http://jg.hbcic.net.cn/web/QyManage/QyInfo.aspx?qybh=feec8e09-9200-480c-abcf-887a218f4e07--重试次数达到上限

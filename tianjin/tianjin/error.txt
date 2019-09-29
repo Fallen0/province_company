@@ -1,0 +1,780 @@
+[2019-09-29 09:21:46]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 09:24:12]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 09:24:25]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 09:25:02]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 09:26:36]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 09:26:50]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 09:26:54]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 09:27:17]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 09:27:37]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 09:29:33]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 09:29:42]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 09:30:25]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 09:30:41]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: Chunked decoder in 'CHUNK_LENGTH' state, still expecting more data to get to 'FINISHED' state.>],)--process_exception
+[2019-09-29 09:30:41]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseFailed--MyRetry
+[2019-09-29 09:30:47]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 09:30:52]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=7b92808f-bfce-43e7-b6e8-afd6fb193979--429 Unknown Status--MyRetry
+[2019-09-29 09:31:27]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=3b881d49-8c64-4433-b012-3adb7a9fdb9e--429 Unknown Status--MyRetry
+[2019-09-29 09:31:41]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=75180ff8-16dd-44fa-8302-cb8866c4d432--429 Unknown Status--MyRetry
+[2019-09-29 09:31:51]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=723cbe26-b14f-416a-a4ef-6fe6b986dafb--429 Unknown Status--MyRetry
+[2019-09-29 09:31:57]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=a8b75bb4-f1fd-44e3-ab91-1dd40d353359--302 Found--MyRetry
+[2019-09-29 09:32:35]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 09:33:39]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=e8aff5db-3be4-4380-8b3c-4bf4ffa559a6--429 Unknown Status--MyRetry
+[2019-09-29 09:33:51]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=1CAF954C-8685-4420-826D-7993B2F21FEC--429 Unknown Status--MyRetry
+[2019-09-29 09:34:02]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=2dabac98-adee-4514-ba86-e29f14d036c7--429 Unknown Status--MyRetry
+[2019-09-29 09:34:09]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: Chunked decoder in 'CHUNK_LENGTH' state, still expecting more data to get to 'FINISHED' state.>],)--process_exception
+[2019-09-29 09:34:09]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseFailed--MyRetry
+[2019-09-29 09:34:33]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 09:34:44]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=93977f2a-b030-4b07-b623-134d91cc8fdf--429 Unknown Status--MyRetry
+[2019-09-29 09:35:01]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 09:37:43]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: Chunked decoder in 'CHUNK_LENGTH' state, still expecting more data to get to 'FINISHED' state.>],)--process_exception
+[2019-09-29 09:37:43]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseFailed--MyRetry
+[2019-09-29 09:37:45]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 09:38:12]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=7A915FFA-24C5-4171-9A38-2AC208DBF01C--429 Unknown Status--MyRetry
+[2019-09-29 09:38:17]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 09:38:44]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 09:38:54]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=5A428028-E660-49A3-943E-A35F58C84179--429 Unknown Status--MyRetry
+[2019-09-29 09:39:00]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 09:39:15]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 09:39:48]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 09:40:05]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=30298211-410B-4A43-BE1C-02ED242DFAB5--429 Unknown Status--MyRetry
+[2019-09-29 09:41:22]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 09:41:50]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=7968cc5e-9fd6-431a-b12e-945b51953fcf--429 Unknown Status--MyRetry
+[2019-09-29 09:41:57]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 09:42:25]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 09:42:57]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 09:43:01]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 09:43:53]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 09:43:58]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=680f94d8-f686-4504-8fc2-19d0a299e6db--429 Unknown Status--MyRetry
+[2019-09-29 09:44:08]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=260a0a52-1fde-492d-8dc4-0bcb1899e1f7--429 Unknown Status--MyRetry
+[2019-09-29 09:45:04]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 09:45:50]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 09:47:03]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=66c96146-5288-4619-8cd7-0c13f1da86c9--429 Unknown Status--MyRetry
+[2019-09-29 09:47:19]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 09:47:30]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 09:48:03]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 09:48:05]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 09:48:13]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 09:48:42]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 09:49:20]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=2F639FEB-7ABA-460B-AF4C-8DB87ACCCB60--429 Unknown Status--MyRetry
+[2019-09-29 09:49:58]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 09:50:07]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 09:50:36]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 09:50:51]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 09:51:04]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 09:51:09]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=dc547937-d2d6-4261-85c8-30365092747a--429 Unknown Status--MyRetry
+[2019-09-29 09:51:17]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=ff1ad99c-230c-435c-82ea-b877269a3154--429 Unknown Status--MyRetry
+[2019-09-29 09:51:25]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 09:51:40]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 09:52:26]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 09:52:39]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 09:53:17]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=120af947-85d3-4ffa-9dfd-8ba760d071bd--503 Service Unavailable--MyRetry
+[2019-09-29 09:53:20]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 09:53:49]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 09:53:55]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 09:53:56]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 09:53:58]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=c92917d0-c13f-4269-bb92-22b283225092--429 Unknown Status--MyRetry
+[2019-09-29 09:54:44]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 09:54:56]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=cd60d615-4455-4791-9665-f8dd1085cc4d--429 Unknown Status--MyRetry
+[2019-09-29 09:54:57]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=d792e5be-1f67-48d9-bbac-fe8780ada0f7--429 Unknown Status--MyRetry
+[2019-09-29 09:55:09]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 09:56:01]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=bc0f806f-fde9-470c-a952-35e8b22d4f07--429 Unknown Status--MyRetry
+[2019-09-29 09:56:10]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 09:56:13]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=da992a11-09bd-4d4d-a663-22d9bd0199be--429 Unknown Status--MyRetry
+[2019-09-29 09:56:20]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 09:56:26]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=6cc7f462-d36c-461b-8c4b-7be4531b5622--429 Unknown Status--MyRetry
+[2019-09-29 09:56:27]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 09:56:29]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 09:57:16]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 09:57:29]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=a52e798b-8f74-488c-a8c7-da0e64607cba--429 Unknown Status--MyRetry
+[2019-09-29 09:57:38]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 09:57:55]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=55ca35ac-aead-4951-bec2-a3d84abed83c--429 Unknown Status--MyRetry
+[2019-09-29 09:58:10]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 09:58:36]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: Chunked decoder in 'CHUNK_LENGTH' state, still expecting more data to get to 'FINISHED' state.>],)--process_exception
+[2019-09-29 09:58:36]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseFailed--MyRetry
+[2019-09-29 10:00:04]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: Chunked decoder in 'CHUNK_LENGTH' state, still expecting more data to get to 'FINISHED' state.>],)--process_exception
+[2019-09-29 10:00:04]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseFailed--MyRetry
+[2019-09-29 10:00:47]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=70ddec62-0d1d-45b4-9f9f-81b28bb0d777--429 Unknown Status--MyRetry
+[2019-09-29 10:01:52]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:02:04]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:02:33]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:02:36]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:02:43]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:03:28]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=1EDEFE55-25DF-455D-8E0B-B527D0F407EB--429 Unknown Status--MyRetry
+[2019-09-29 10:03:46]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:03:57]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 10:04:14]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:06:12]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=dfb25d1a-376d-423a-8bbe-ba4f8a766738--429 Unknown Status--MyRetry
+[2019-09-29 10:06:17]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:06:51]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:07:05]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:08:00]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: Chunked decoder in 'CHUNK_LENGTH' state, still expecting more data to get to 'FINISHED' state.>],)--process_exception
+[2019-09-29 10:08:00]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseFailed--MyRetry
+[2019-09-29 10:08:13]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:08:31]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=fd57282b-9055-488a-bd3d-e11cb5d74f11--429 Unknown Status--MyRetry
+[2019-09-29 10:09:48]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:10:31]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=a53f0c07-7e91-408b-beff-9719eebcdd50--429 Unknown Status--MyRetry
+[2019-09-29 10:10:57]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=5b7064a8-3bf3-4c5e-af75-37303aa42064--429 Unknown Status--MyRetry
+[2019-09-29 10:11:23]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=0ce43ee8-8e07-485a-b4b2-e31d05f871db--429 Unknown Status--MyRetry
+[2019-09-29 10:11:29]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:12:01]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:12:09]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:12:27]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 10:13:03]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:13:19]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 10:13:47]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=4ebe9423-2fe1-44d8-a3fa-022c5db83695--429 Unknown Status--MyRetry
+[2019-09-29 10:14:22]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:14:54]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:15:15]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=D1E044EB-CBF8-4CF1-99CD-03A87633F889--429 Unknown Status--MyRetry
+[2019-09-29 10:15:21]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=0898192D-35C0-4F90-9C7B-8109C05B7F8E--429 Unknown Status--MyRetry
+[2019-09-29 10:15:21]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 10:15:39]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:15:44]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:16:12]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=34471B36-D1BD-4B89-9755-350266B415C9--429 Unknown Status--MyRetry
+[2019-09-29 10:16:59]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=d067b7fe-bc16-4e3f-b5e0-190a9d9479f9--429 Unknown Status--MyRetry
+[2019-09-29 10:17:41]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=453492ad-5f45-4dc5-9ada-9d0165ff5d9f--429 Unknown Status--MyRetry
+[2019-09-29 10:17:44]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:18:18]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=8c42538a-60f6-45ac-84d7-74e60d6a42d1--429 Unknown Status--MyRetry
+[2019-09-29 10:19:28]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=7675787f-ce73-419e-a097-cd50931d8a05--429 Unknown Status--MyRetry
+[2019-09-29 10:19:39]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:19:48]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 10:19:52]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=149EC7B6-A886-4EB7-A34F-1A02F40869D5--429 Unknown Status--MyRetry
+[2019-09-29 10:21:05]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=295f8328-95b5-41c1-9c9f-540a412a6405--429 Unknown Status--MyRetry
+[2019-09-29 10:21:57]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:22:11]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:22:13]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=91ce4402-9949-4907-b3f8-e5aff7443ce6--429 Unknown Status--MyRetry
+[2019-09-29 10:23:02]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 10:24:04]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 10:24:04]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:25:07]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:25:10]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=BFC64AB7-F80C-449E-BC50-E8F87411EB4D--503 Service Unavailable--MyRetry
+[2019-09-29 10:25:13]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 10:25:27]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=62383A16-8E7D-481E-A99E-E8ABA17B1957--429 Unknown Status--MyRetry
+[2019-09-29 10:26:13]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=AD437E34-0A3C-4E7B-BD7F-FAAADC5C2AF2--429 Unknown Status--MyRetry
+[2019-09-29 10:26:38]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=343A9788-D03F-4EB8-90AC-D8EEB576010E--429 Unknown Status--MyRetry
+[2019-09-29 10:26:52]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=3AFF168D-A399-4F8D-A8DB-688AEB08BE9A--429 Unknown Status--MyRetry
+[2019-09-29 10:26:55]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:26:58]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=98605f61-3e04-47d9-950d-ffad2f970fe8--429 Unknown Status--MyRetry
+[2019-09-29 10:27:50]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=D3D9B014-16AA-4DA5-B905-3993C69DBFE3--429 Unknown Status--MyRetry
+[2019-09-29 10:28:10]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=F986E37A-152E-4C2A-8A91-36BC529D2E74--429 Unknown Status--MyRetry
+[2019-09-29 10:28:20]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=E55CFA9D-C214-413E-B31C-A037CADD8C9D--429 Unknown Status--MyRetry
+[2019-09-29 10:28:30]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:28:37]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:28:50]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:29:55]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=4f07edd0-d338-42e5-b2b5-912ad0a9401f--503 Service Unavailable--MyRetry
+[2019-09-29 10:30:07]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:31:27]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=2d15c72e-76c4-4b78-a27b-1909c2dbc3ec--429 Unknown Status--MyRetry
+[2019-09-29 10:31:27]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 10:32:01]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=16DAA988-4FE8-4173-87AB-4FB1C08A1770--429 Unknown Status--MyRetry
+[2019-09-29 10:32:18]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=757c6dac-8c4f-4512-8f3e-b31cb076f7c6--429 Unknown Status--MyRetry
+[2019-09-29 10:32:37]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 10:33:16]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=45D4211C-79F3-46F0-8DDC-031A00C1C6B9--429 Unknown Status--MyRetry
+[2019-09-29 10:33:19]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=bf765fda-97a4-43a4-aabe-4677571ebf23--429 Unknown Status--MyRetry
+[2019-09-29 10:33:24]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:33:50]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=57d3252b-885d-4235-99f7-2af2835d1dbd--429 Unknown Status--MyRetry
+[2019-09-29 10:34:20]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=c9b3a122-2ba7-46cd-b4c0-22fafa060a9c--429 Unknown Status--MyRetry
+[2019-09-29 10:34:58]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=393751dc-4575-4db9-839b-93637696fdfb--429 Unknown Status--MyRetry
+[2019-09-29 10:35:12]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=4587DBBC-E9A5-4B5A-B57F-6E3352B49449--429 Unknown Status--MyRetry
+[2019-09-29 10:35:37]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:36:14]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:36:19]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 10:36:44]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:37:59]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 10:38:45]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=8129392f-45d4-44dc-9c22-56e7163bc2f0--429 Unknown Status--MyRetry
+[2019-09-29 10:38:47]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:38:50]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:39:14]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 10:39:44]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:40:09]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=B4E6866A-3089-470E-9570-F8A130406CD0--429 Unknown Status--MyRetry
+[2019-09-29 10:41:23]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:41:27]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=a8d9a1fb-ac26-443c-a697-b4d6f80ec87d--429 Unknown Status--MyRetry
+[2019-09-29 10:41:48]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=9bc8664d-9ae2-45c6-86be-95982fa84322--429 Unknown Status--MyRetry
+[2019-09-29 10:42:12]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=c3b32672-07b5-4a90-b15a-46799557aff6--429 Unknown Status--MyRetry
+[2019-09-29 10:42:34]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: Chunked decoder in 'CHUNK_LENGTH' state, still expecting more data to get to 'FINISHED' state.>],)--process_exception
+[2019-09-29 10:42:34]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseFailed--MyRetry
+[2019-09-29 10:42:51]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:43:37]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:43:45]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 10:44:04]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=a349f566-1896-4009-80ae-0b0cad5e8b6f--429 Unknown Status--MyRetry
+[2019-09-29 10:44:07]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:44:19]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=0d234e68-69e2-4129-8602-08cc8fa25275--429 Unknown Status--MyRetry
+[2019-09-29 10:44:24]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=e61a08ea-90a3-47a6-a43e-7faa0246f8d6--429 Unknown Status--MyRetry
+[2019-09-29 10:44:28]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:44:57]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=bd905599-ebdc-4b0a-997f-85b2f2536baa--429 Unknown Status--MyRetry
+[2019-09-29 10:45:42]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=c3b32672-07b5-4a90-b15a-46799557aff6--429 Unknown Status--MyRetry
+[2019-09-29 10:46:11]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:46:20]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:46:33]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 10:46:45]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+[2019-09-29 10:46:45]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseNeverReceived--MyRetry
+[2019-09-29 10:46:53]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:47:30]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:47:33]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=c9b3a122-2ba7-46cd-b4c0-22fafa060a9c--429 Unknown Status--MyRetry
+[2019-09-29 10:47:37]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:48:44]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=81a6c602-4329-4e34-ad84-61841486a0dd--429 Unknown Status--MyRetry
+[2019-09-29 10:49:22]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:49:43]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=D849F59A-C4D1-4CA1-B369-60BEF8A1E20E--429 Unknown Status--MyRetry
+[2019-09-29 10:49:49]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:50:02]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=A3E359EA-F1D9-4431-9D6E-321677FE82C5--429 Unknown Status--MyRetry
+[2019-09-29 10:50:19]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:50:49]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=71CAEB27-2734-4CD7-853C-DEA6049C40EC--429 Unknown Status--MyRetry
+[2019-09-29 10:51:11]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:51:16]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=ea332cf2-a8c4-47e3-ae99-e119f6b58512--429 Unknown Status--MyRetry
+[2019-09-29 10:52:28]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=6c40a228-8e9c-4539-ae86-462df1ac96b1--429 Unknown Status--MyRetry
+[2019-09-29 10:52:41]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=8cf2544a-1750-4e6a-8c57-552a8954d2a7--429 Unknown Status--MyRetry
+[2019-09-29 10:53:51]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:53:57]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=2923D66D-9CAE-4416-BA20-F35DAE7DA922--429 Unknown Status--MyRetry
+[2019-09-29 10:54:08]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 10:54:29]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:55:18]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+[2019-09-29 10:55:18]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseNeverReceived--MyRetry
+[2019-09-29 10:56:08]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:56:16]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:56:33]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:57:07]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:58:31]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 10:59:09]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=aa638e7e-fa57-4331-a071-d088c14d9ef3--429 Unknown Status--MyRetry
+[2019-09-29 11:00:46]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=BD49C526-1108-42CC-9BC8-45AFE0DFD48A--429 Unknown Status--MyRetry
+[2019-09-29 11:00:49]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:00:53]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=6583af53-1017-4861-b978-6129091a4ab2--429 Unknown Status--MyRetry
+[2019-09-29 11:01:04]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:01:24]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=EBCD7E74-340E-4A40-9AC7-81EB9C8652D5--429 Unknown Status--MyRetry
+[2019-09-29 11:01:46]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:02:17]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:02:18]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: Chunked decoder in 'CHUNK_LENGTH' state, still expecting more data to get to 'FINISHED' state.>],)--process_exception
+[2019-09-29 11:02:18]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseFailed--MyRetry
+[2019-09-29 11:02:52]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 11:02:59]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:03:25]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=42230b56-0434-47d7-9a03-14618d4cdd12--429 Unknown Status--MyRetry
+[2019-09-29 11:03:46]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:04:07]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=c09cee0e-aed6-4c84-a58c-ac73cebd62ed--429 Unknown Status--MyRetry
+[2019-09-29 11:04:22]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:04:32]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 11:04:34]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:04:39]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:05:01]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 11:05:03]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=524e8875-a82d-4e48-9e26-4e1d312159a9--429 Unknown Status--MyRetry
+[2019-09-29 11:05:42]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 11:05:59]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:06:05]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=d3d5e437-0e27-40a7-bcc6-2af8e1995db7--429 Unknown Status--MyRetry
+[2019-09-29 11:06:17]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:06:34]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:06:37]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:07:01]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:07:04]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=8f795897-97ab-4459-83f0-3d2e1c42ab19--429 Unknown Status--MyRetry
+[2019-09-29 11:07:32]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:08:07]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=10f48dc6-feec-4b66-ad49-f1ae9a118b88--429 Unknown Status--MyRetry
+[2019-09-29 11:08:18]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 11:08:26]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=edc92760-60ab-4af7-a234-84ebaae0acc1--429 Unknown Status--MyRetry
+[2019-09-29 11:08:33]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:09:00]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=51a8b619-8bf0-496a-8947-1bdfc6264a71--429 Unknown Status--MyRetry
+[2019-09-29 11:09:08]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=00f40851-0c19-4eba-b027-c4bd984051f4--429 Unknown Status--MyRetry
+[2019-09-29 11:09:22]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=b3b23a67-c9e9-4fe5-a9b6-07ee2bdd7daa--429 Unknown Status--MyRetry
+[2019-09-29 11:09:26]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=90e34f53-c317-4964-bb34-3e4678567117--429 Unknown Status--MyRetry
+[2019-09-29 11:09:40]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=8CF1A4CD-E34A-44CB-907C-D45C861ECD86--429 Unknown Status--MyRetry
+[2019-09-29 11:09:40]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: Chunked decoder in 'CHUNK_LENGTH' state, still expecting more data to get to 'FINISHED' state.>],)--process_exception
+[2019-09-29 11:09:40]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseFailed--MyRetry
+[2019-09-29 11:09:56]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=27d6610d-ff78-4df6-8f81-5ae85266328d--429 Unknown Status--MyRetry
+[2019-09-29 11:10:49]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=7e6a57a3-80b9-4005-a579-2295c94aad53--503 Service Unavailable--MyRetry
+[2019-09-29 11:11:01]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:11:11]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=D297F78A-85A9-453C-838D-AEB001AC630B--429 Unknown Status--MyRetry
+[2019-09-29 11:11:51]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=B102EC32-4797-4BC2-BD95-7815F36C23BC--429 Unknown Status--MyRetry
+[2019-09-29 11:11:53]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:12:09]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: Chunked decoder in 'CHUNK_LENGTH' state, still expecting more data to get to 'FINISHED' state.>],)--process_exception
+[2019-09-29 11:12:09]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseFailed--MyRetry
+[2019-09-29 11:12:10]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=0562c780-fc7a-49b6-9eaa-038ed6ca2d3e--429 Unknown Status--MyRetry
+[2019-09-29 11:12:12]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=8CF1A4CD-E34A-44CB-907C-D45C861ECD86--429 Unknown Status--MyRetry
+[2019-09-29 11:12:39]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:13:30]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=63E574C4-4952-456E-B12B-DFB5AA5B5AB5--429 Unknown Status--MyRetry
+[2019-09-29 11:13:32]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=71af6f7e-1098-489a-9b8a-1b2609bc7aec--429 Unknown Status--MyRetry
+[2019-09-29 11:13:43]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 11:14:03]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=f0045065-43a4-415f-b64f-f05ff02ee423--429 Unknown Status--MyRetry
+[2019-09-29 11:14:19]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 11:14:38]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 11:15:14]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=fc04d7a8-c1c5-40ac-b2ee-17cd352addc8--429 Unknown Status--MyRetry
+[2019-09-29 11:15:23]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:15:25]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:15:28]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:15:33]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:15:52]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=df4b149e-3539-42cb-a6de-896c89478cd7--429 Unknown Status--MyRetry
+[2019-09-29 11:16:12]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:16:12]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=10507CAB-1422-43B4-B192-34D93BB1CBA1--429 Unknown Status--MyRetry
+[2019-09-29 11:16:15]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=0640C2C2-97D8-490F-9B7C-208950F9D0F4--429 Unknown Status--MyRetry
+[2019-09-29 11:16:38]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:17:00]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=8df5c168-81f3-46c9-8b62-1e6a8835ad64--429 Unknown Status--MyRetry
+[2019-09-29 11:17:21]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:17:49]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:17:58]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=71dfca51-c842-4b51-af3e-ef3e802bb375--429 Unknown Status--MyRetry
+[2019-09-29 11:18:00]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=a530d32f-b2a2-4eb5-a1a5-472f114c338c--429 Unknown Status--MyRetry
+[2019-09-29 11:18:05]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:18:45]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:18:48]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:19:39]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=05e6e13a-2e61-4ff5-9e0b-8cdac987077f--429 Unknown Status--MyRetry
+[2019-09-29 11:20:16]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=7ce5b5c4-41c7-479e-aa97-5c1be9121e92--503 Service Unavailable--MyRetry
+[2019-09-29 11:20:32]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: Chunked decoder in 'CHUNK_LENGTH' state, still expecting more data to get to 'FINISHED' state.>],)--process_exception
+[2019-09-29 11:20:32]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseFailed--MyRetry
+[2019-09-29 11:20:41]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: Chunked decoder in 'CHUNK_LENGTH' state, still expecting more data to get to 'FINISHED' state.>],)--process_exception
+[2019-09-29 11:20:41]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseFailed--MyRetry
+[2019-09-29 11:20:57]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 11:21:02]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:21:23]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:21:26]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 11:21:37]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 11:21:52]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=23e27141-f067-46cc-bd62-4ba3945dc385--429 Unknown Status--MyRetry
+[2019-09-29 11:23:10]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=dde8076d-fdf4-4b5f-ab1f-5cebfc369c56--429 Unknown Status--MyRetry
+[2019-09-29 11:23:24]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:23:27]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 11:23:50]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 11:24:17]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=b4464d71-8bb9-4a25-a4e3-8e13da22ed0b--503 Service Unavailable--MyRetry
+[2019-09-29 11:24:27]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:24:53]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 11:25:02]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:25:07]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+[2019-09-29 11:25:07]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseNeverReceived--MyRetry
+[2019-09-29 11:25:39]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:25:41]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=4e1e2e10-b9ac-48e5-af54-4eb9425a5c0c--429 Unknown Status--MyRetry
+[2019-09-29 11:26:13]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=cd93c748-555e-4ff7-80fc-52e6c95d8620--429 Unknown Status--MyRetry
+[2019-09-29 11:26:26]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:26:53]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=1DF6FE17-06AB-4255-892F-51706FDE8345--429 Unknown Status--MyRetry
+[2019-09-29 11:28:07]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=75ec7737-d072-4962-9556-1b5b8cd77f2c--429 Unknown Status--MyRetry
+[2019-09-29 11:28:10]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=520f6aa7-6c00-442a-b6b3-0af8571e01fb--429 Unknown Status--MyRetry
+[2019-09-29 11:28:13]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 11:28:48]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:28:53]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:30:10]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=fb179a0b-223f-44d2-a211-dd3292e3b7f5--429 Unknown Status--MyRetry
+[2019-09-29 11:31:25]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:31:38]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=DE43116A-65DC-47B3-8C50-557B6C699A76--429 Unknown Status--MyRetry
+[2019-09-29 11:32:35]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=f1e6ae1f-692e-4c21-8a7b-c7593cbd20c8--429 Unknown Status--MyRetry
+[2019-09-29 11:32:55]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=244e7b3f-4386-4cdf-ae0c-7693066cf223--429 Unknown Status--MyRetry
+[2019-09-29 11:33:15]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:33:15]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 11:33:19]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 11:34:07]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:34:09]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=44676F9C-2465-4957-8728-8E7AFD1BC927--429 Unknown Status--MyRetry
+[2019-09-29 11:34:56]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=FDF30577-D0CF-4B1C-9A96-94B8A3999732--429 Unknown Status--MyRetry
+[2019-09-29 11:35:14]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 11:35:47]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:35:49]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=96855600-04db-4b90-8f36-188e44ba2834--429 Unknown Status--MyRetry
+[2019-09-29 11:36:13]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 11:36:16]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=8c28f4d4-34c3-443e-981f-9b7f0068be9a--429 Unknown Status--MyRetry
+[2019-09-29 11:36:18]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=a5be1027-d0a8-4849-841d-3196dbdf3c62--429 Unknown Status--MyRetry
+[2019-09-29 11:37:04]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=3ab92fc5-7201-48b6-9226-69d1c78c7117--429 Unknown Status--MyRetry
+[2019-09-29 11:37:09]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:38:11]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:38:25]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=811ce24f-45aa-4ecd-9d88-3fb3f0de931a--429 Unknown Status--MyRetry
+[2019-09-29 11:38:36]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=d0cb94ba-bd08-49ea-a67f-4751a8fa2cce--429 Unknown Status--MyRetry
+[2019-09-29 11:39:09]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:39:14]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 11:39:16]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:39:31]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=0cd492f5-eee5-4ca2-a2e6-c653d4fde433--429 Unknown Status--MyRetry
+[2019-09-29 11:39:36]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:39:44]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:39:54]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=1ecb59f4-a81b-4bd4-9350-df35f3ce7e4c--429 Unknown Status--MyRetry
+[2019-09-29 11:39:57]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=68ec46be-3652-418a-91c3-cd6e35b3c3cd--429 Unknown Status--MyRetry
+[2019-09-29 11:40:07]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:40:21]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:40:28]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:40:58]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:41:18]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:41:42]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=608c61c8-85a9-4923-9b14-da69f46d1938--429 Unknown Status--MyRetry
+[2019-09-29 11:43:26]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:43:28]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=2c319c11-e6b3-49b5-a0be-e54e412af3f7--429 Unknown Status--MyRetry
+[2019-09-29 11:43:30]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=a16ff8e2-6d6b-42fd-b5bd-3d901a0c0e59--429 Unknown Status--MyRetry
+[2019-09-29 11:43:43]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:43:52]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=1697215d-f353-4436-a5ad-457b5ea39a5b--429 Unknown Status--MyRetry
+[2019-09-29 11:44:16]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:44:45]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=020B459F-47AA-4DB1-8FCE-C6C665B109E3--429 Unknown Status--MyRetry
+[2019-09-29 11:45:00]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:45:18]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 11:46:14]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=abb3d823-655e-4b8e-8573-323b1af83c51--429 Unknown Status--MyRetry
+[2019-09-29 11:46:29]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:46:33]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:46:41]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 11:46:42]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:46:49]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:46:54]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 11:47:42]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=de890766-4233-4a94-a331-2c3431ede002--503 Service Unavailable--MyRetry
+[2019-09-29 11:47:57]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=5ee3a8bc-035c-4b1b-bd5c-29e9e32c7a11--429 Unknown Status--MyRetry
+[2019-09-29 11:49:04]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:49:28]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:49:46]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:49:53]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:50:59]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=809d943c-d15f-4fd3-9db0-57e32e8c4259--429 Unknown Status--MyRetry
+[2019-09-29 11:51:19]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=90bb969a-4656-4cb6-a5af-2fef248a66cf--429 Unknown Status--MyRetry
+[2019-09-29 11:51:24]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 11:51:51]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:51:58]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 11:52:16]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 11:52:22]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:52:47]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:53:06]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 11:53:36]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=fef32ed3-184e-49de-b0af-9ea9ff4a90f7--429 Unknown Status--MyRetry
+[2019-09-29 11:54:46]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:55:42]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:56:06]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=1fad437e-92a6-40ec-8c34-8c1f156759aa--429 Unknown Status--MyRetry
+[2019-09-29 11:57:00]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=1E4B409E-917E-4298-9B47-32A6082C2ECD--429 Unknown Status--MyRetry
+[2019-09-29 11:57:12]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:57:17]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 11:57:25]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=6c513310-3565-4fcf-9080-863c19ecd359--429 Unknown Status--MyRetry
+[2019-09-29 11:57:43]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:57:46]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=3b969adf-3c88-47e2-8e39-7504c451c5a8--503 Service Unavailable--MyRetry
+[2019-09-29 11:57:48]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 11:57:50]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:57:56]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:58:12]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=9fba8340-8c98-4651-885f-925767429489--429 Unknown Status--MyRetry
+[2019-09-29 11:58:45]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=f3afd352-a2ca-4975-b227-234842cdebba--429 Unknown Status--MyRetry
+[2019-09-29 11:59:26]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 11:59:58]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=BACD08B6-C362-4585-9F00-C84B0803C4AB--429 Unknown Status--MyRetry
+[2019-09-29 12:00:14]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=54dd438e-318f-438d-81fe-8e9d28fcac4d--429 Unknown Status--MyRetry
+[2019-09-29 12:00:27]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 12:00:39]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:00:41]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:00:44]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=30452024-5b3f-4fc6-85f7-7b4eaba4813a--429 Unknown Status--MyRetry
+[2019-09-29 12:01:20]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=591A3F0F-19B7-454F-A3DF-617FEE8A33C3--429 Unknown Status--MyRetry
+[2019-09-29 12:01:23]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:01:29]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 12:01:36]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 12:02:04]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=0b3fa23c-6fa5-422d-bbaf-b38717322a16--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: Chunked decoder in 'CHUNK_LENGTH' state, still expecting more data to get to 'FINISHED' state.>],)--process_exception
+[2019-09-29 12:02:04]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=0b3fa23c-6fa5-422d-bbaf-b38717322a16--twisted.web._newclient.ResponseFailed--MyRetry
+[2019-09-29 12:02:27]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=bafc2a00-28f2-4c0a-922f-ef177fa8509a--429 Unknown Status--MyRetry
+[2019-09-29 12:02:42]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:03:13]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=a077dc34-95ea-4e93-84f8-d70447a06909--429 Unknown Status--MyRetry
+[2019-09-29 12:03:15]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 12:03:27]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:03:51]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:04:24]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 12:05:02]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:05:07]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:05:17]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=743F3B6E-50D2-4986-AC4F-E5607A94C938--429 Unknown Status--MyRetry
+[2019-09-29 12:05:33]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:05:51]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=a3f71733-1282-4c32-a2a2-33b5a73dc6a5--429 Unknown Status--MyRetry
+[2019-09-29 12:06:01]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=8ec1e124-7892-45d6-8bb3-31e068d4f4fb--429 Unknown Status--MyRetry
+[2019-09-29 12:06:34]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 12:06:54]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 12:07:01]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+[2019-09-29 12:07:01]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseNeverReceived--MyRetry
+[2019-09-29 12:07:26]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=8b8ccfde-aebf-498a-8497-93e02ac0f24b--429 Unknown Status--MyRetry
+[2019-09-29 12:07:32]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:08:07]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=af2b92c8-2556-4c5c-a2c4-c45c6b6a8ec4--429 Unknown Status--MyRetry
+[2019-09-29 12:08:07]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 12:08:31]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 12:08:42]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:09:08]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:09:17]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=b2760552-45da-4781-a069-900bc8ba0a06--429 Unknown Status--MyRetry
+[2019-09-29 12:09:35]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:09:37]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:09:47]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=f13b89b1-08bc-4f5c-82a1-dbec51420671--429 Unknown Status--MyRetry
+[2019-09-29 12:09:58]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 12:10:03]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:11:04]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:11:15]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=E8C9AC86-66B2-4C2F-B173-CD4419A0F580--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: Chunked decoder in 'CHUNK_LENGTH' state, still expecting more data to get to 'FINISHED' state.>],)--process_exception
+[2019-09-29 12:11:15]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=E8C9AC86-66B2-4C2F-B173-CD4419A0F580--twisted.web._newclient.ResponseFailed--MyRetry
+[2019-09-29 12:11:18]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:11:44]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=ccd746d3-c9bc-49ed-bd6c-0f6cb5bf5c99--429 Unknown Status--MyRetry
+[2019-09-29 12:11:56]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:12:01]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:12:06]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:12:12]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 12:12:17]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=d52df501-a811-4dbf-949d-115cadbb689f--429 Unknown Status--MyRetry
+[2019-09-29 12:12:21]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:12:36]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=1c29675d-4172-4c74-9672-f0e2572db392--429 Unknown Status--MyRetry
+[2019-09-29 12:12:56]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:13:13]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 12:13:41]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:14:02]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=F1AB698D-5C76-4BE0-BEE8-469DE7864CA6--429 Unknown Status--MyRetry
+[2019-09-29 12:14:48]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+[2019-09-29 12:14:48]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseNeverReceived--MyRetry
+[2019-09-29 12:14:53]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=9d1e6cd6-a625-4f47-9cbf-d6435f7c47f6--429 Unknown Status--MyRetry
+[2019-09-29 12:14:58]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:15:03]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 12:15:18]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 12:15:20]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:15:54]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:16:06]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=dbbef28d-7c4b-4534-a69d-6e93ac8024cb--429 Unknown Status--MyRetry
+[2019-09-29 12:16:28]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:16:36]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=92425D90-367F-4585-BBC9-0DA475F00383--429 Unknown Status--MyRetry
+[2019-09-29 12:16:50]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+[2019-09-29 12:16:50]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseNeverReceived--MyRetry
+[2019-09-29 12:16:59]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=4e1d1e4f-337c-4cf0-84ef-68739f2e5b8d--429 Unknown Status--MyRetry
+[2019-09-29 12:18:00]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=d8900fd4-dbf3-4f50-832a-aabb68397f80--429 Unknown Status--MyRetry
+[2019-09-29 12:18:29]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:18:31]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=df8f996d-1f1f-499b-8368-d2dca11079e4--429 Unknown Status--MyRetry
+[2019-09-29 12:18:41]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=57eeb5a1-3313-441f-86b1-88132745578b--429 Unknown Status--MyRetry
+[2019-09-29 12:19:25]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 12:19:31]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=a00451a1-7b18-4440-be14-7d0cd88b2ec9--429 Unknown Status--MyRetry
+[2019-09-29 12:19:43]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=f9801b05-1165-45de-96cc-666cec1ea98c--429 Unknown Status--MyRetry
+[2019-09-29 12:20:12]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:21:03]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 12:21:59]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:22:42]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 12:22:46]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 12:22:55]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+[2019-09-29 12:22:55]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseNeverReceived--MyRetry
+[2019-09-29 12:23:17]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:23:48]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=d4816054-d2c8-4091-90c1-46c09d5ca2d3--429 Unknown Status--MyRetry
+[2019-09-29 12:24:00]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=959801f9-2dc2-42d3-83f2-4ffe8f61dced--429 Unknown Status--MyRetry
+[2019-09-29 12:24:18]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:24:32]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 12:25:25]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 12:25:39]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 12:26:24]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=9fc3adee-5354-4d52-9ab1-b09ea4d44165--429 Unknown Status--MyRetry
+[2019-09-29 12:26:33]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=879c0a1a-74f8-4589-95aa-49d8f4669cea--429 Unknown Status--MyRetry
+[2019-09-29 12:27:00]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:27:09]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=914e4ded-1eb3-4d42-bdfa-28a561bb3b33--429 Unknown Status--MyRetry
+[2019-09-29 12:27:24]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+[2019-09-29 12:27:24]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseNeverReceived--MyRetry
+[2019-09-29 12:28:16]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 12:28:45]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:29:04]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:29:55]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:29:58]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:30:28]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:31:04]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:31:08]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=1e3b22a1-4f1b-4f49-9c02-8f68469ad0df--429 Unknown Status--MyRetry
+[2019-09-29 12:31:34]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:31:37]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+[2019-09-29 12:31:37]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseNeverReceived--MyRetry
+[2019-09-29 12:31:51]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 12:32:53]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 12:32:53]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+[2019-09-29 12:32:53]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseNeverReceived--MyRetry
+[2019-09-29 12:33:09]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=1d0302af-7fa5-4d39-abf1-5bd84e7e0768--429 Unknown Status--MyRetry
+[2019-09-29 12:33:19]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 12:35:28]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 12:44:35]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=8238eb14-2f0d-4e27-be2c-0baa02bd1273--429 Unknown Status--MyRetry
+[2019-09-29 12:44:35]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:45:38]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 12:45:40]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=9bbb7085-a4bb-4214-9665-11d9a6094df9--429 Unknown Status--MyRetry
+[2019-09-29 12:59:53]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 13:00:05]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 13:10:10]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=3d69f38a-6b9e-46b6-962d-1c725d1a4187--429 Unknown Status--MyRetry
+[2019-09-29 13:26:21]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=8238eb14-2f0d-4e27-be2c-0baa02bd1273--429 Unknown Status--MyRetry
+[2019-09-29 13:37:35]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=4081214C-C60A-4AAD-A7F0-819A2C0BAB56--429 Unknown Status--MyRetry
+[2019-09-29 14:05:27]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 14:07:42]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+[2019-09-29 14:07:42]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseNeverReceived--MyRetry
+[2019-09-29 14:10:08]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=9EEB8E50-4366-4366-8B85-61E6FAA58DB6--302 Found--MyRetry
+[2019-09-29 14:10:15]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+[2019-09-29 14:10:15]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseNeverReceived--MyRetry
+[2019-09-29 14:10:28]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=D21E4497-4CAC-4455-B71F-2EFADFF989DA--429 Unknown Status--MyRetry
+[2019-09-29 14:10:55]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: Chunked decoder in 'CHUNK_LENGTH' state, still expecting more data to get to 'FINISHED' state.>],)--process_exception
+[2019-09-29 14:10:55]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseFailed--MyRetry
+[2019-09-29 14:11:32]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=1A9538D1-27A1-4A5D-A1AF-9498DD078D8F--302 Found--MyRetry
+[2019-09-29 14:11:42]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 14:13:21]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 14:14:35]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=028ee7e1-741f-449f-b212-86d861c683ca--429 Unknown Status--MyRetry
+[2019-09-29 14:15:01]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--302 Found--MyRetry
+[2019-09-29 14:15:20]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 14:15:59]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 14:16:32]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 14:16:59]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 14:17:17]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 14:18:37]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 14:18:48]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 14:20:11]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 14:20:31]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: Chunked decoder in 'CHUNK_LENGTH' state, still expecting more data to get to 'FINISHED' state.>],)--process_exception
+[2019-09-29 14:20:31]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseFailed--MyRetry
+[2019-09-29 14:23:10]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 14:26:06]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 14:26:19]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 14:27:04]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=e3bda2fa-ec01-421a-bee3-16f44c4abd6a--429 Unknown Status--MyRetry
+[2019-09-29 14:28:23]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 14:29:40]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 14:30:53]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 14:31:52]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 14:32:58]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+[2019-09-29 14:32:58]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseNeverReceived--MyRetry
+[2019-09-29 14:33:11]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 14:34:14]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+[2019-09-29 14:34:14]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseNeverReceived--MyRetry
+[2019-09-29 14:35:02]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 14:35:02]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: Chunked decoder in 'CHUNK_LENGTH' state, still expecting more data to get to 'FINISHED' state.>],)--process_exception
+[2019-09-29 14:35:02]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseFailed--MyRetry
+[2019-09-29 14:35:17]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 14:35:27]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: Chunked decoder in 'CHUNK_LENGTH' state, still expecting more data to get to 'FINISHED' state.>],)--process_exception
+[2019-09-29 14:35:27]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseFailed--MyRetry
+[2019-09-29 14:36:48]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 14:37:57]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=55e664e6-aac3-471b-97b8-c807c16dfe00--429 Unknown Status--MyRetry
+[2019-09-29 14:40:01]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 14:40:10]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=390a54de-ce71-4247-909d-f133c24ad71b--429 Unknown Status--MyRetry
+[2019-09-29 14:40:31]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=b18d7f05-bf3c-4d24-b889-3d216fa79c25--429 Unknown Status--MyRetry
+[2019-09-29 14:41:15]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=82434dcd-60ae-4733-9d9b-bf6ac2f54002--429 Unknown Status--MyRetry
+[2019-09-29 14:41:27]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=71d35d7a-bbc3-4c70-8dd8-a7861f84b887--429 Unknown Status--MyRetry
+[2019-09-29 14:42:25]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 14:43:00]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 14:43:04]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: Chunked decoder in 'CHUNK_LENGTH' state, still expecting more data to get to 'FINISHED' state.>],)--process_exception
+[2019-09-29 14:43:04]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseFailed--MyRetry
+[2019-09-29 14:43:45]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 14:44:28]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 14:44:31]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 14:44:33]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=7eb4d8ad-b1d2-4743-9886-11a8a9b4d578--429 Unknown Status--MyRetry
+[2019-09-29 14:45:08]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+[2019-09-29 14:45:08]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseNeverReceived--MyRetry
+[2019-09-29 14:45:39]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=a16bf2e1-905c-47f9-8ba0-4d7eeb925819--429 Unknown Status--MyRetry
+[2019-09-29 14:46:57]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=5c99d1e7-99d3-4cf7-83bc-462e4965c7d6--429 Unknown Status--MyRetry
+[2019-09-29 14:47:02]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 14:47:36]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+[2019-09-29 14:47:36]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseNeverReceived--MyRetry
+[2019-09-29 14:48:45]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 14:51:21]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 14:52:12]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 14:52:57]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=1240eb54-930b-4b2e-9923-d376615d0e4c--429 Unknown Status--MyRetry
+[2019-09-29 14:53:12]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+[2019-09-29 14:53:12]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseNeverReceived--MyRetry
+[2019-09-29 14:53:47]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: Chunked decoder in 'CHUNK_LENGTH' state, still expecting more data to get to 'FINISHED' state.>],)--process_exception
+[2019-09-29 14:53:47]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseFailed--MyRetry
+[2019-09-29 14:54:13]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 14:54:14]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 14:55:10]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=a7ffc958-3c18-427f-808a-4f80e868edbe--429 Unknown Status--MyRetry
+[2019-09-29 14:56:02]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=eb987099-bae6-4ff4-a227-ef8a4d46d096--429 Unknown Status--MyRetry
+[2019-09-29 14:56:29]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=8b1b21c8-57e6-4bad-bef6-f314ce528cdf--429 Unknown Status--MyRetry
+[2019-09-29 14:57:23]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 14:59:41]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 15:00:12]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 15:00:43]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=394fb22b-8b18-4d80-b76f-e76f0675d12f--302 Found--MyRetry
+[2019-09-29 15:02:24]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 15:04:06]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 15:04:44]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=4729eeba-f42c-4f83-abb9-5c831083d81e--429 Unknown Status--MyRetry
+[2019-09-29 15:05:21]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 15:06:32]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=7b506964-679d-43d5-816a-5e326cf6166f--429 Unknown Status--MyRetry
+[2019-09-29 15:07:10]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 15:07:22]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 15:07:28]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+[2019-09-29 15:07:28]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseNeverReceived--MyRetry
+[2019-09-29 15:07:58]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=4111894a-d4c2-4e42-8b9e-86614910e0de--429 Unknown Status--MyRetry
+[2019-09-29 15:08:01]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 15:08:09]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 15:09:08]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 15:09:10]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 15:09:11]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=B98A834D-C18B-4359-9CEA-92936D333DD3--503 Service Unavailable--MyRetry
+[2019-09-29 15:09:20]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 15:12:28]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=3f04079a-ea8d-47d3-8835-2bb1f425ffde--429 Unknown Status--MyRetry
+[2019-09-29 15:12:31]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=0a27141b-0813-438c-9591-a4f6aa8ae603--429 Unknown Status--MyRetry
+[2019-09-29 15:12:39]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 15:15:04]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=1b3afd06-12c2-45e3-ad75-1bc49e54cad8--429 Unknown Status--MyRetry
+[2019-09-29 15:15:07]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 15:15:09]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: Chunked decoder in 'CHUNK_LENGTH' state, still expecting more data to get to 'FINISHED' state.>],)--process_exception
+[2019-09-29 15:15:09]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseFailed--MyRetry
+[2019-09-29 15:15:43]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 15:16:16]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=c8a29ebf-e6df-4e7b-93e7-482e90c6d625--429 Unknown Status--MyRetry
+[2019-09-29 15:17:11]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 15:20:48]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: Chunked decoder in 'CHUNK_LENGTH' state, still expecting more data to get to 'FINISHED' state.>],)--process_exception
+[2019-09-29 15:20:48]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseFailed--MyRetry
+[2019-09-29 15:20:51]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=25f0f758-2236-41bb-84be-7c41650a60dc--429 Unknown Status--MyRetry
+[2019-09-29 15:21:56]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 15:22:00]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 15:22:32]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 15:24:43]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: Chunked decoder in 'CHUNK_LENGTH' state, still expecting more data to get to 'FINISHED' state.>],)--process_exception
+[2019-09-29 15:24:43]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseFailed--MyRetry
+[2019-09-29 15:24:50]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 15:25:08]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 15:25:22]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: Chunked decoder in 'CHUNK_LENGTH' state, still expecting more data to get to 'FINISHED' state.>],)--process_exception
+[2019-09-29 15:25:22]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseFailed--MyRetry
+[2019-09-29 15:25:38]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=fe5fa2cd-9c56-43d1-822b-2bc26945c067--302 Found--MyRetry
+[2019-09-29 15:25:41]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=059329fb-d141-424b-8a5a-8d92b190f221--429 Unknown Status--MyRetry
+[2019-09-29 15:26:30]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 15:27:32]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 15:27:48]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 15:28:01]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+[2019-09-29 15:28:01]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseNeverReceived--MyRetry
+[2019-09-29 15:28:46]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 15:29:20]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 15:29:23]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 15:30:02]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 15:30:02]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 15:33:00]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=C4D70378-0891-42E6-9D47-1754A41EF16C--302 Found--MyRetry
+[2019-09-29 15:33:41]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 15:33:58]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 15:34:04]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=b47ffa8a-edbc-4547-982c-0d43d9e38e68--503 Service Unavailable--MyRetry
+[2019-09-29 15:34:36]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 15:36:34]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 15:37:14]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 15:38:09]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=5da45a5b-0508-48c4-b595-2e36f3db4911--302 Found--MyRetry
+[2019-09-29 15:40:16]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+[2019-09-29 15:40:16]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseNeverReceived--MyRetry
+[2019-09-29 15:40:37]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=e0fea5d4-7c02-48fc-9618-34e601a563c8--429 Unknown Status--MyRetry
+[2019-09-29 15:40:52]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=f121fc4a-061b-402d-9be8-18587bcd42af--429 Unknown Status--MyRetry
+[2019-09-29 15:40:52]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 15:41:15]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: Chunked decoder in 'CHUNK_LENGTH' state, still expecting more data to get to 'FINISHED' state.>],)--process_exception
+[2019-09-29 15:41:15]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseFailed--MyRetry
+[2019-09-29 15:41:28]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=19BA336B-DE86-4796-9B85-0A08E48DA354--429 Unknown Status--MyRetry
+[2019-09-29 15:41:40]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 15:42:29]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: Chunked decoder in 'CHUNK_LENGTH' state, still expecting more data to get to 'FINISHED' state.>],)--process_exception
+[2019-09-29 15:42:29]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseFailed--MyRetry
+[2019-09-29 15:43:22]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=E053428C-FEE4-4E43-88F6-5C70F727FF8C--429 Unknown Status--MyRetry
+[2019-09-29 15:43:48]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 15:44:42]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 15:47:20]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+[2019-09-29 15:47:20]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseNeverReceived--MyRetry
+[2019-09-29 15:50:13]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=DA0BC212-0239-4E50-8693-FF0EC69F13EC--429 Unknown Status--MyRetry
+[2019-09-29 15:50:17]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 15:51:53]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 15:54:49]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 15:56:23]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 15:57:54]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 15:58:44]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 15:59:45]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+[2019-09-29 15:59:45]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseNeverReceived--MyRetry
+[2019-09-29 16:02:11]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 16:02:17]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=6F446435-68B8-4B93-9593-5A3C53DEFE75--429 Unknown Status--MyRetry
+[2019-09-29 16:02:21]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 16:03:23]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=aa596177-4d1b-482d-a69d-7cd4a9a73688--503 Service Unavailable--MyRetry
+[2019-09-29 16:03:25]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=d11426aa-2209-48c1-9627-19846e86affa--503 Service Unavailable--MyRetry
+[2019-09-29 16:03:58]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 16:04:11]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=7C82B800-C774-4E5F-BA55-DFB44FC6DB7C--429 Unknown Status--MyRetry
+[2019-09-29 16:04:22]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 16:04:53]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=e022056a-ff6b-4c1c-9ed8-48d1690d905d--429 Unknown Status--MyRetry
+[2019-09-29 16:05:49]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+[2019-09-29 16:05:49]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseNeverReceived--MyRetry
+[2019-09-29 16:07:41]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 16:09:05]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 16:09:19]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 16:09:35]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseFailed([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: Chunked decoder in 'CHUNK_LENGTH' state, still expecting more data to get to 'FINISHED' state.>],)--process_exception
+[2019-09-29 16:09:35]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseFailed--MyRetry
+[2019-09-29 16:09:44]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=43434C4F-4C3E-4B62-BFDB-7B873E55C438--302 Found--MyRetry
+[2019-09-29 16:09:55]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 16:10:04]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 16:10:10]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 16:10:31]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 16:10:51]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 16:11:47]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 16:11:50]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=3888ea37-5144-4199-96a8-faa49082ce1f--429 Unknown Status--MyRetry
+[2019-09-29 16:12:18]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 16:13:10]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 16:15:16]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 16:15:58]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=61efe299-6910-40dd-b56c-27ef10b92c59--429 Unknown Status--MyRetry
+[2019-09-29 16:16:25]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=589dd05e-7f92-444a-88a4-935ee31b3a93--429 Unknown Status--MyRetry
+[2019-09-29 16:18:42]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=2F3142AC-5BF1-4077-ACFB-2B49A0E0A6F5--302 Found--MyRetry
+[2019-09-29 16:18:53]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 16:19:09]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 16:21:25]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 16:22:12]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 16:22:14]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=4270AE38-72C8-407A-9E1C-B7B6C03482AF--429 Unknown Status--MyRetry
+[2019-09-29 16:22:28]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+[2019-09-29 16:22:28]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseNeverReceived--MyRetry
+[2019-09-29 16:22:31]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 16:26:00]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=cc8d5e8c-e61a-4588-a3bc-d0d2fa3998fb--429 Unknown Status--MyRetry
+[2019-09-29 16:26:03]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--ResponseNeverReceived([<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>],)--process_exception
+[2019-09-29 16:26:03]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--twisted.web._newclient.ResponseNeverReceived--MyRetry
+[2019-09-29 16:28:51]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=4b3d312a-e369-4c24-bb7f-a29870d6e53e--429 Unknown Status--MyRetry
+[2019-09-29 16:29:23]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 16:29:52]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 16:29:56]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 16:30:07]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=7F2C2D63-AE2D-4CD8-8AEC-61492E4290D7--429 Unknown Status--MyRetry
+[2019-09-29 16:32:20]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 16:35:16]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--429 Unknown Status--MyRetry
+[2019-09-29 16:35:57]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 16:36:04]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 16:36:12]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 16:36:27]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 16:36:39]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 16:36:44]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=a0854caf-7ba1-464c-817d-7e9045a85939--503 Service Unavailable--MyRetry
+[2019-09-29 16:36:47]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=8cd4ed4d-3fc8-4f49-b13f-51f5eae3c7c6--503 Service Unavailable--MyRetry
+[2019-09-29 16:36:50]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=079346d3-b8ae-457f-864e-5d6004df5dc0--503 Service Unavailable--MyRetry
+[2019-09-29 16:36:52]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=d690a82d-d12c-4ef8-99c3-9604a29177d0--503 Service Unavailable--MyRetry
+[2019-09-29 16:37:04]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=ab04bf1d-5672-41ae-b4e3-264b47f5ad09--503 Service Unavailable--MyRetry
+[2019-09-29 16:37:10]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 16:37:12]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 16:37:20]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 16:37:23]-http://218.69.33.156/epr/Search/C_Common/CE/index.aspx--503 Service Unavailable--MyRetry
+[2019-09-29 16:37:27]-http://218.69.33.156/epr/Search/CE/CKE.aspx?k_qyzcjlh=3ae04b19-e3e8-4af5-be77-881e25863ea3--503 Service Unavailable--MyRetry
