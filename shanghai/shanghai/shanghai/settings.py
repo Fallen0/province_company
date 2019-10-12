@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Scrapy settings for jilin project
+# Scrapy settings for shanghai project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -9,14 +9,14 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'jilin'
+BOT_NAME = 'shanghai'
 
-SPIDER_MODULES = ['jilin.spiders']
-NEWSPIDER_MODULE = 'jilin.spiders'
+SPIDER_MODULES = ['shanghai.spiders']
+NEWSPIDER_MODULE = 'shanghai.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36'
+#USER_AGENT = 'shanghai (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
@@ -33,17 +33,22 @@ DOWNLOAD_DELAY = 0.3
 #CONCURRENT_REQUESTS_PER_IP = 16
 
 # Disable cookies (enabled by default)
-COOKIES_ENABLED = False
+#COOKIES_ENABLED = False
 
 # Disable Telnet Console (enabled by default)
 #TELNETCONSOLE_ENABLED = False
 
 # Override the default request headers:
-DEFAULT_REQUEST_HEADERS = {
-    'Accept-Encoding': 'gzip, deflate',
+DEFAULT_REQUEST_HEADERS = headers = {
+    'Sec-Fetch-Mode': 'cors',
+    'Sec-Fetch-Site': 'same-origin',
+    'Origin': 'https://ciac.zjw.sh.gov.cn',
+    'Accept-Encoding': 'gzip, deflate, br',
     'Accept-Language': 'zh-CN,zh;q=0.9',
-    'Accept': 'application/json, text/javascript, */*; q=0.01',
-    'Referer': 'http://cx.jlsjsxxw.com/corpinfo/CorpInfo.aspx',
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+    'Content-Type': 'application/x-www-form-urlencoded',
+    'Accept': '*/*',
+    'Referer': 'https://ciac.zjw.sh.gov.cn/CreditManualnew/PublicCompany/SearchIndex',
     'X-Requested-With': 'XMLHttpRequest',
     'Connection': 'keep-alive',
 }
@@ -51,15 +56,15 @@ DEFAULT_REQUEST_HEADERS = {
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 SPIDER_MIDDLEWARES = {
-   'jilin.middlewares.ExceptionSpiderMiddleware': 1,
+   'shanghai.middlewares.ExceptionSpiderMiddleware': 1,
 }
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 DOWNLOADER_MIDDLEWARES = {
-    'jilin.middlewares.ProxyMiddleware': 650,
-    'jilin.middlewares.RetryMiddleware': None,
-    'jilin.middlewares.MyRetryMiddleware': 550,
+    'shanghai.middlewares.ProxyMiddleware': 650,
+    'shanghai.middlewares.RetryMiddleware': None,
+    'shanghai.middlewares.MyRetryMiddleware': 550,
 }
 
 # Enable or disable extensions
@@ -71,7 +76,7 @@ DOWNLOADER_MIDDLEWARES = {
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-   'jilin.pipelines.JilinPipeline': 300,
+   'shanghai.pipelines.ShanghaiPipeline': 300,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
@@ -95,8 +100,9 @@ ITEM_PIPELINES = {
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
+
 RETRY_TIMES = 10
 REDIRECT_MAX_TIMES = 10
-DOWNLOAD_TIMEOUT = 30
+DOWNLOAD_TIMEOUT = 120
 REDIRECT_ENABLED = False
-RETRY_HTTP_CODES = [500, 502, 503, 504, 522, 524, 408, 429, 302]
+RETRY_HTTP_CODES = [500, 502, 503, 504, 522, 524, 408, 429, 302, 301]

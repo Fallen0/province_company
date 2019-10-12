@@ -17,7 +17,7 @@ class JilinSpiderSpider(scrapy.Spider):
 
     @staticmethod
     def get_province_company_id():
-        return 'jilin-' + str(int(time.time()*1000))
+        return 'jilin_' + str(int(time.time()*1000))
 
     @staticmethod
     def get_create_time():
@@ -140,6 +140,7 @@ class JilinSpiderSpider(scrapy.Spider):
                           contact_address=contact_address, url=response.url,
                           area_code=220000, source='吉林', status=1, create_time=time_now, modification_time=time_now, is_delete=0)
         self.crawler.stats.inc_value('sn_num')
+        print('省内：', self.crawler.stats.get_value('sn_num'))
         # 资质信息
         types = response.xpath('//*[@class="details_infor_content_01"]/div')
         tables = response.xpath('//*[@class="details_infor_content_01"]/table')
@@ -188,6 +189,7 @@ class JilinSpiderSpider(scrapy.Spider):
                                 status=1, create_time=time_now, modification_time=time_now, is_delete=0)
 
                 self.crawler.stats.inc_value('sw_num')
+                print('省外：', self.crawler.stats.get_value('sw_num'))
 
 
 
